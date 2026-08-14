@@ -63,7 +63,7 @@
             "last_commit": "2026-08-13T14:15:04Z",
             "owner": "Graphify-Labs",
             "repo": "graphify",
-            "stars": 105954
+            "stars": 106284
           }
         },
         {
@@ -74,10 +74,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T07:16:26Z",
+            "last_commit": "2026-08-14T07:46:01Z",
             "owner": "EverMind-AI",
             "repo": "EverOS",
-            "stars": 11996
+            "stars": 12019
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-07-22T03:45:16Z",
             "owner": "VectifyAI",
             "repo": "OpenKB",
-            "stars": 3713
+            "stars": 3774
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-11T17:35:57Z",
             "owner": "Ar9av",
             "repo": "obsidian-wiki",
-            "stars": 3200
+            "stars": 3204
           }
         },
         {
@@ -130,10 +130,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:01:02Z",
+            "last_commit": "2026-08-13T18:19:50Z",
             "owner": "axoviq-ai",
             "repo": "synthadoc",
-            "stars": 971
+            "stars": 975
           }
         },
         {
@@ -144,10 +144,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:13:08Z",
+            "last_commit": "2026-08-14T12:38:48Z",
             "owner": "desplega-ai",
             "repo": "agent-swarm",
-            "stars": 697
+            "stars": 699
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-12T00:05:47Z",
             "owner": "JeanBaissari",
             "repo": "llm-wiki-monorepo",
-            "stars": 1
+            "stars": 2
           }
         }
       ],
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-12T23:18:51Z",
             "owner": "AsyncFuncAI",
             "repo": "deepwiki-open",
-            "stars": 17638
+            "stars": 17647
           }
         },
         {
@@ -220,10 +220,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:02:15Z",
+            "last_commit": "2026-08-14T08:07:32Z",
             "owner": "nashsu",
             "repo": "llm_wiki",
-            "stars": 16293
+            "stars": 16365
           }
         },
         {
@@ -234,10 +234,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:50:35Z",
+            "last_commit": "2026-08-14T16:40:32Z",
             "owner": "inkeep",
             "repo": "open-knowledge",
-            "stars": 3423
+            "stars": 3445
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:04:06Z",
+            "last_commit": "2026-08-14T09:50:13Z",
             "owner": "siddsachar",
             "repo": "row-bot",
-            "stars": 1423
+            "stars": 1426
           }
         },
         {
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:05:21Z",
+            "last_commit": "2026-08-14T16:13:51Z",
             "owner": "Drakonis96",
             "repo": "nodus",
             "stars": 76
@@ -374,7 +374,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:24:07Z",
+            "last_commit": "2026-08-14T16:30:05Z",
             "owner": "kiycoh",
             "repo": "silica-agent",
             "stars": 21
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-01T12:03:27Z",
             "owner": "AgriciDaniel",
             "repo": "claude-obsidian",
-            "stars": 10837
+            "stars": 10881
           }
         },
         {
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:25:10Z",
+            "last_commit": "2026-08-14T11:04:42Z",
             "owner": "green-dalii",
             "repo": "obsidian-llm-wiki",
-            "stars": 452
+            "stars": 456
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:44:39Z",
+            "last_commit": "2026-08-14T05:47:14Z",
             "owner": "MarcoPorcellato",
             "repo": "matryca-plumber",
             "stars": 91
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-11T14:13:37Z",
             "owner": "Egonex-AI",
             "repo": "Understand-Anything",
-            "stars": 79206
+            "stars": 79329
           }
         },
         {
@@ -554,10 +554,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:01:13Z",
+            "last_commit": "2026-08-14T16:28:08Z",
             "owner": "garrytan",
             "repo": "gbrain",
-            "stars": 28365
+            "stars": 28433
           }
         },
         {
@@ -568,10 +568,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:23:06Z",
+            "last_commit": "2026-08-14T15:59:10Z",
             "owner": "langchain-ai",
             "repo": "openwiki",
-            "stars": 15000
+            "stars": 15073
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-06-25T17:00:57Z",
             "owner": "campfirein",
             "repo": "byterover-cli",
-            "stars": 4938
+            "stars": 4939
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-08-12T23:24:51Z",
             "owner": "atomicstrata",
             "repo": "llm-wiki-compiler",
-            "stars": 1920
+            "stars": 1929
           }
         },
         {
@@ -613,7 +613,21 @@
             "last_commit": "2026-08-09T20:19:46Z",
             "owner": "kenforthewin",
             "repo": "atomic",
-            "stars": 1796
+            "stars": 1862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lat.md",
+          "description": "(GitHub) - A codebase knowledge graph format and CLI utility (\"Agent Lattice\") written in Markdown. Structures project context into a directory of interconnected files using wiki links and maps them back to the codebase via source code comments, featuring checks to prevent doc drift and support for offline semantic vector search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:39:06Z",
+            "owner": "1st1",
+            "repo": "lat.md",
+            "stars": 1827
           }
         },
         {
@@ -627,7 +641,7 @@
             "last_commit": "2026-08-12T07:18:32Z",
             "owner": "skyllwt",
             "repo": "AutoSci",
-            "stars": 1629
+            "stars": 1631
           }
         },
         {
@@ -641,7 +655,7 @@
             "last_commit": "2026-08-09T22:48:54Z",
             "owner": "lucasastorian",
             "repo": "llmwiki",
-            "stars": 1493
+            "stars": 1496
           }
         },
         {
@@ -655,7 +669,7 @@
             "last_commit": "2026-08-12T01:28:14Z",
             "owner": "nvk",
             "repo": "llm-wiki",
-            "stars": 1018
+            "stars": 1025
           }
         },
         {
@@ -669,7 +683,7 @@
             "last_commit": "2026-07-25T00:00:46Z",
             "owner": "AlmanacCode",
             "repo": "codealmanac",
-            "stars": 796
+            "stars": 799
           }
         },
         {
@@ -680,10 +694,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T15:23:02Z",
+            "last_commit": "2026-08-14T07:26:46Z",
             "owner": "xoai",
             "repo": "sage-wiki",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -697,7 +711,7 @@
             "last_commit": "2026-04-21T11:39:07Z",
             "owner": "shannhk",
             "repo": "llm-wikid",
-            "stars": 372
+            "stars": 395
           }
         },
         {
@@ -711,7 +725,7 @@
             "last_commit": "2026-07-10T06:47:14Z",
             "owner": "ussumant",
             "repo": "llm-wiki-compiler",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -795,7 +809,21 @@
             "last_commit": "2026-07-06T11:17:30Z",
             "owner": "cobusgreyling",
             "repo": "llm-wiki",
-            "stars": 39
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wiki-from-code-with-llm-wiki-karpathy (balukosuri)",
+          "description": "(Companion Article) - A codebase documentation compiler template and Git post-commit hook configuration. Automatically triggers on commit to diff changes, feeding them to Claude Code, Cursor, or Codex to compile and maintain a structured Markdown wiki (architecture, APIs, user guides, decisions) alongside a pre-configured Obsidian vault.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-17T08:26:29Z",
+            "owner": "balukosuri",
+            "repo": "wiki-from-code-with-llm-wiki-karpathy",
+            "stars": 31
           }
         },
         {
@@ -879,6 +907,20 @@
             "last_commit": "2026-08-10T21:20:02Z",
             "owner": "ivankuznetsov",
             "repo": "llm-wiki",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WikiMoth",
+          "description": "(GitHub) - A local-first deterministic memory compiler and retriever for plain-markdown wikis. Indexes and walks double-bracket wiki link graphs in code without LLMs or vector databases, reducing context size by ~99% while exposing auditable retrieval node-chains and a zero-dependency web viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T20:38:35Z",
+            "owner": "juliangeymonat-jpg",
+            "repo": "wikimoth",
             "stars": 8
           }
         },
@@ -1073,7 +1115,7 @@
             "last_commit": "2026-08-08T02:56:05Z",
             "owner": "colbymchenry",
             "repo": "codegraph",
-            "stars": 66268
+            "stars": 66417
           }
         },
         {
@@ -1084,10 +1126,24 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:08:55Z",
+            "last_commit": "2026-08-14T09:44:18Z",
             "owner": "abhigyanpatwari",
             "repo": "GitNexus",
-            "stars": 45358
+            "stars": 45395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codebase-memory-mcp",
+          "description": "(GitHub) - A high-performance code intelligence engine and MCP server written in C. Parses repository AST structures across 158 languages using tree-sitter, offering hybrid type resolution for 11 languages to build a local codebase knowledge graph. Exposes 15 MCP tools (semantic/vector search, call graphs, HTTP routes, dead code detection) and serves a built-in 3D graph visualization UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-14T16:35:02Z",
+            "owner": "DeusData",
+            "repo": "codebase-memory-mcp",
+            "stars": 38928
           }
         },
         {
@@ -1101,7 +1157,7 @@
             "last_commit": "2026-08-02T12:45:39Z",
             "owner": "tirth8205",
             "repo": "code-review-graph",
-            "stars": 30008
+            "stars": 30103
           }
         },
         {
@@ -1112,10 +1168,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:24:10Z",
+            "last_commit": "2026-08-13T19:11:31Z",
             "owner": "tobi",
             "repo": "qmd",
-            "stars": 28804
+            "stars": 28840
           }
         },
         {
@@ -1126,10 +1182,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:27:06Z",
+            "last_commit": "2026-08-13T16:55:29Z",
             "owner": "agentic-box",
             "repo": "memora",
-            "stars": 656
+            "stars": 658
           }
         },
         {
@@ -1143,7 +1199,7 @@
             "last_commit": "2026-06-30T20:28:43Z",
             "owner": "swarmclawai",
             "repo": "swarmvault",
-            "stars": 655
+            "stars": 656
           }
         },
         {
@@ -1154,10 +1210,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T17:16:49Z",
+            "last_commit": "2026-08-13T21:10:13Z",
             "owner": "zosmaai",
             "repo": "pi-llm-wiki",
-            "stars": 494
+            "stars": 497
           }
         },
         {
@@ -1185,7 +1241,7 @@
             "last_commit": "2026-08-08T01:04:47Z",
             "owner": "kytmanov",
             "repo": "synto",
-            "stars": 231
+            "stars": 233
           }
         },
         {
@@ -1199,7 +1255,7 @@
             "last_commit": "2026-08-13T04:46:41Z",
             "owner": "gowtham0992",
             "repo": "link",
-            "stars": 155
+            "stars": 156
           }
         },
         {
@@ -1213,7 +1269,7 @@
             "last_commit": "2026-08-11T21:23:57Z",
             "owner": "frankchu91",
             "repo": "mindbase",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -1238,7 +1294,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T07:18:02Z",
+            "last_commit": "2026-08-14T09:42:00Z",
             "owner": "LinklyAI",
             "repo": "linkly-ai-cli",
             "stars": 29
@@ -1252,10 +1308,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T10:33:11Z",
+            "last_commit": "2026-08-14T14:02:40Z",
             "owner": "geronimo-iia",
             "repo": "llm-wiki",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -1269,7 +1325,7 @@
             "last_commit": "2026-07-31T06:53:03Z",
             "owner": "pieteams",
             "repo": "piekbs",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -1294,13 +1350,41 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Hindsight",
+          "description": "(GitHub / Obsidian Plugin) - An open-source, model-agnostic agent memory system designed to help agents learn and adapt over time rather than just recalling raw logs. It organizes memory into facts, observations, and user-curated mental models, exposing simple retain/recall/reflect APIs alongside an optional LLM wrapper and self-hosted Docker interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T16:35:59Z",
+            "owner": "vectorize-io",
+            "repo": "hindsight",
+            "stars": 19949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basic Memory",
+          "description": "(GitHub) - A cloud-hosted (SaaS) or local-first (AGPL-3.0) persistent memory platform and MCP server. Syncs Obsidian-compatible Markdown files across web, mobile, and IDEs, utilizing SQLite/Neon PostgreSQL and Milvus backends to provide hybrid semantic search, cross-encoder reranking, and official plugins for Claude Code, Hermes, and OpenClaw.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:24:38Z",
+            "owner": "basicmachines-co",
+            "repo": "basic-memory",
+            "stars": 3660
+          }
+        },
+        {
+          "node_type": "item",
           "title": "second-brain-cloudflare (rahilp)",
           "description": "(Website) (Companion Article) - A self-hostable remote memory platform and deployment stack for Cloudflare Workers (utilizing D1, Vectorize, and Workers AI). Serves a centralized persistent memory layer via MCP tools to share context across Claude Code, Cursor, and ChatGPT, featuring interactive desktop apps, Notion synchronization, iCal calendar scrapers, and automated email collectors.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T10:20:14Z",
+            "last_commit": "2026-08-14T05:33:32Z",
             "owner": "rahilp",
             "repo": "second-brain-cloudflare",
             "stars": 716
@@ -1314,10 +1398,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:27:33Z",
+            "last_commit": "2026-08-14T16:39:24Z",
             "owner": "Fergana-Labs",
             "repo": "stash",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -1376,10 +1460,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T12:12:06Z",
+            "last_commit": "2026-08-14T12:12:31Z",
             "owner": "TencentCloud",
             "repo": "TencentDB-Agent-Memory",
-            "stars": 21122
+            "stars": 21634
           }
         },
         {
@@ -1393,7 +1477,7 @@
             "last_commit": "2026-08-08T21:21:21Z",
             "owner": "eugeniughelbur",
             "repo": "obsidian-second-brain",
-            "stars": 3983
+            "stars": 4002
           }
         },
         {
@@ -1407,7 +1491,7 @@
             "last_commit": "2026-08-10T04:55:24Z",
             "owner": "SamurAIGPT",
             "repo": "llm-wiki-agent",
-            "stars": 3358
+            "stars": 3365
           }
         },
         {
@@ -1421,7 +1505,7 @@
             "last_commit": "2026-07-23T16:57:44Z",
             "owner": "Astro-Han",
             "repo": "karpathy-llm-wiki",
-            "stars": 1882
+            "stars": 1896
           }
         },
         {
@@ -1477,7 +1561,21 @@
             "last_commit": "2026-07-21T22:42:21Z",
             "owner": "dair-ai",
             "repo": "dair-academy-plugins",
-            "stars": 601
+            "stars": 603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-wiki-karpathy (balukosuri)",
+          "description": "(Companion Article) - A self-maintaining personal knowledge base template and schema configured for Cursor and Obsidian. Uses a custom operating manual () to guide autonomous agents through ingest, query, and lint operations side-by-side with live visual graph previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-07T09:43:43Z",
+            "owner": "balukosuri",
+            "repo": "llm-wiki-karpathy",
+            "stars": 200
           }
         },
         {
@@ -1491,7 +1589,7 @@
             "last_commit": "2026-07-03T20:04:57Z",
             "owner": "kfchou",
             "repo": "wiki-skills",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -1505,7 +1603,21 @@
             "last_commit": "2026-06-08T15:10:15Z",
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 138
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Wiki",
+          "description": "(GitHub) - A second brain plugin and skill suite for Claude Code, Codex, Cursor, Gemini, and Pi. Implements Karpathy's LLM Wiki pattern using a local PEP-723 runtime featuring on-device semantic search (FastEmbed/sqlite-vec), BM25 lexical fallback, RRF hybrid fusion, and incremental changed-section indexing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T15:48:47Z",
+            "owner": "praneybehl",
+            "repo": "llm-wiki-plugin",
+            "stars": 86
           }
         },
         {
@@ -1533,7 +1645,7 @@
             "last_commit": "2026-07-11T10:39:41Z",
             "owner": "vanillaflava",
             "repo": "llm-wiki-skills",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -1594,6 +1706,20 @@
         },
         {
           "node_type": "item",
+          "title": "sturlese/hippocampus",
+          "description": "A zero-dependency personal knowledge base template built for Claude Code using the Open Knowledge Format (OKF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:38:54Z",
+            "owner": "sturlese",
+            "repo": "hippocampus",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
           "title": "LLM Wiki (TrueHOOHA)",
           "description": "An open-source implementation focused on mitigating agent behavioral drift using rigid workflow skills. Features a triage-first ingest mechanism ( / ), automated cross-page contradiction reports, a single-command cleanup loop, and SHA-256 source provenance tracking.",
           "children": [],
@@ -1604,20 +1730,6 @@
             "owner": "TrueHOOHA",
             "repo": "LLM-Wiki",
             "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sturlese/hippocampus",
-          "description": "A zero-dependency personal knowledge base template built for Claude Code using the Open Knowledge Format (OKF).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T06:38:54Z",
-            "owner": "sturlese",
-            "repo": "hippocampus",
-            "stars": 20
           }
         },
         {
@@ -1728,9 +1840,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:50:51.492Z",
+    "last_updated": "2026-08-14T16:48:36.574Z",
     "original_repository": "gavischneider/awesome-llm-wiki",
-    "original_repository_sha": "b8f65b1d3a59cfb5db217122ff5b83e144f4342f",
+    "original_repository_sha": "f8e4cc36e1a39f79d7150d4a0122da3c1e98f1b6",
     "enhanced_repository": "enhansome/enhansome-llm-wiki",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Wiki with stars"

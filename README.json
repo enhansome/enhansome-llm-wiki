@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-24T13:19:04Z",
                 "owner": "Graphify-Labs",
                 "repo": "graphify",
-                "stars": 110201
+                "stars": 110378
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-25T02:35:55Z",
                 "owner": "EverMind-AI",
                 "repo": "EverOS",
-                "stars": 12405
+                "stars": 12418
               }
             },
             {
@@ -90,7 +90,7 @@
                 "last_commit": "2026-07-22T03:45:16Z",
                 "owner": "VectifyAI",
                 "repo": "OpenKB",
-                "stars": 3840
+                "stars": 3842
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-24T01:44:52Z",
                 "owner": "Ar9av",
                 "repo": "obsidian-wiki",
-                "stars": 3282
+                "stars": 3286
               }
             },
             {
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 1207529559,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:36:03Z",
+                "last_commit": "2026-08-25T13:29:01Z",
                 "owner": "axoviq-ai",
                 "repo": "synthadoc",
                 "stars": 1117
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 1119736729,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:33:25Z",
+                "last_commit": "2026-08-25T14:17:39Z",
                 "owner": "desplega-ai",
                 "repo": "agent-swarm",
-                "stars": 720
+                "stars": 721
               }
             },
             {
@@ -244,10 +244,10 @@
                 "archived": false,
                 "id": 1024118326,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:24:58Z",
+                "last_commit": "2026-08-25T13:20:47Z",
                 "owner": "Tencent",
                 "repo": "WeKnora",
-                "stars": 20565
+                "stars": 20604
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-08-16T05:43:58Z",
                 "owner": "AsyncFuncAI",
                 "repo": "deepwiki-open",
-                "stars": 17758
+                "stars": 17767
               }
             },
             {
@@ -274,10 +274,10 @@
                 "archived": false,
                 "id": 1204828304,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:45:01Z",
+                "last_commit": "2026-08-25T06:42:02Z",
                 "owner": "nashsu",
                 "repo": "llm_wiki",
-                "stars": 16756
+                "stars": 16787
               }
             },
             {
@@ -289,10 +289,10 @@
                 "archived": false,
                 "id": 1258203278,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:49:54Z",
+                "last_commit": "2026-08-25T16:01:56Z",
                 "owner": "inkeep",
                 "repo": "open-knowledge",
-                "stars": 3639
+                "stars": 3644
               }
             },
             {
@@ -307,7 +307,7 @@
                 "last_commit": "2026-08-24T14:31:37Z",
                 "owner": "siddsachar",
                 "repo": "row-bot",
-                "stars": 1445
+                "stars": 1448
               }
             },
             {
@@ -379,7 +379,7 @@
                 "archived": false,
                 "id": 1269112987,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:38:22Z",
+                "last_commit": "2026-08-25T16:20:46Z",
                 "owner": "Drakonis96",
                 "repo": "nodus",
                 "stars": 99
@@ -394,7 +394,7 @@
                 "archived": false,
                 "id": 1217904456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:12:04Z",
+                "last_commit": "2026-08-25T10:38:58Z",
                 "owner": "cmblir",
                 "repo": "Myco",
                 "stars": 85
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 1204108861,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:13:30Z",
+                "last_commit": "2026-08-25T14:39:10Z",
                 "owner": "talirezun",
                 "repo": "the-curator",
                 "stars": 51
@@ -469,7 +469,7 @@
                 "archived": false,
                 "id": 1248657228,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:08:34Z",
+                "last_commit": "2026-08-25T12:56:31Z",
                 "owner": "kiycoh",
                 "repo": "silica-harness",
                 "stars": 26
@@ -539,7 +539,7 @@
                 "last_commit": "2026-08-01T12:03:27Z",
                 "owner": "AgriciDaniel",
                 "repo": "claude-obsidian",
-                "stars": 12114
+                "stars": 12471
               }
             },
             {
@@ -551,10 +551,10 @@
                 "archived": false,
                 "id": 1221689260,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:47:50Z",
+                "last_commit": "2026-08-25T15:26:42Z",
                 "owner": "green-dalii",
                 "repo": "obsidian-llm-wiki",
-                "stars": 494
+                "stars": 496
               }
             },
             {
@@ -581,7 +581,7 @@
                 "archived": false,
                 "id": 1241185104,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:32:47Z",
+                "last_commit": "2026-08-25T16:03:14Z",
                 "owner": "MarcoPorcellato",
                 "repo": "matryca-plumber",
                 "stars": 95
@@ -656,21 +656,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Understand Anything",
-              "description": "A highly advanced, cross-platform multi-agent compilation engine and plugin suite for Claude Code, Cursor, and Gemini CLI. Uses a deterministic Tree-sitter and LLM hybrid pipeline to synthesize directories into local, versionable knowledge-graph topologies, featuring a dedicated framework for parsing and visualizing community clusters within Karpathy-pattern markdown wikis.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1182081931,
-                "language": "TypeScript",
-                "last_commit": "2026-08-11T14:13:37Z",
-                "owner": "Egonex-AI",
-                "repo": "Understand-Anything",
-                "stars": 80386
-              }
-            },
-            {
-              "node_type": "item",
               "title": "GBrain",
               "description": "An open-source, markdown-first AI agent memory layer and knowledge graph compiler. It processes raw document directories, transcripts, and data captures into structured plain-text nodes, using zero-LLM entity extraction to map typed connection edges and an automated background \"dream cycle\" to handle profile enrichment, gap analysis, and citation repair across local agent frameworks.",
               "children": [],
@@ -678,40 +663,10 @@
                 "archived": false,
                 "id": 1202057891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:52:15Z",
+                "last_commit": "2026-08-25T14:57:27Z",
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 29039
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OpenWiki (LangChain)",
-              "description": "(Introductory Blog Post) - An open-source CLI that compiles and maintains flat-file Markdown agent documentation inside the directory.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1277477208,
-                "language": "TypeScript",
-                "last_commit": "2026-08-25T03:25:15Z",
-                "owner": "langchain-ai",
-                "repo": "openwiki",
-                "stars": 15577
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ByteRover",
-              "description": "(Website) - An open-source, file-based local memory engine and interactive CLI tool that compiles codebase interactions into a hierarchical Context Tree, featuring agent-native curation, an adaptive knowledge lifecycle layer, sub-100ms hybrid text retrieval, and multi-IDE MCP portability.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1005233473,
-                "language": "TypeScript",
-                "last_commit": "2026-06-25T17:00:57Z",
-                "owner": "campfirein",
-                "repo": "byterover-cli",
-                "stars": 4949
+                "stars": 29069
               }
             },
             {
@@ -723,10 +678,10 @@
                 "archived": false,
                 "id": 1080442728,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:15:15Z",
+                "last_commit": "2026-08-25T07:23:27Z",
                 "owner": "oceanbase",
                 "repo": "seekdb",
-                "stars": 2875
+                "stars": 2878
               }
             },
             {
@@ -738,55 +693,10 @@
                 "archived": false,
                 "id": 1202251960,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:17:24Z",
+                "last_commit": "2026-08-25T08:34:16Z",
                 "owner": "atomicstrata",
                 "repo": "llm-wiki-compiler",
-                "stars": 1959
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Atomic",
-              "description": "An open-source, self-hosted personal knowledge base built in Rust that transforms freeform markdown notes into a semantically linked graph, featuring asynchronous chunking pipelines via sqlite-vec, auto-generated tag wikis with inline citations, an integrated MCP server, and a force-directed canvas.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1103927253,
-                "language": "Rust",
-                "last_commit": "2026-08-09T20:19:46Z",
-                "owner": "kenforthewin",
-                "repo": "atomic",
-                "stars": 1926
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lat.md",
-              "description": "(GitHub) - A codebase knowledge graph format and CLI utility (\"Agent Lattice\") written in Markdown. Structures project context into a directory of interconnected files using wiki links and maps them back to the codebase via source code comments, featuring checks to prevent doc drift and support for offline semantic vector search.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1177225364,
-                "language": "TypeScript",
-                "last_commit": "2026-08-25T00:39:57Z",
-                "owner": "vercel-labs",
-                "repo": "lat.md",
-                "stars": 1856
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "AutoSci",
-              "description": "An advanced, memory-centric autonomous scientific research platform powered by Claude Code. Implements a dual-layer markdown vault architecture () to separate long-term scientific knowledge from active project frames, featuring multi-model critique validation loops, rigid Pydantic-style front-matter schema definitions, and a continuous self-evolution pipeline.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1206036567,
-                "language": "Python",
-                "last_commit": "2026-08-24T08:59:54Z",
-                "owner": "skyllwt",
-                "repo": "AutoSci",
-                "stars": 1647
+                "stars": 1962
               }
             },
             {
@@ -801,7 +711,7 @@
                 "last_commit": "2026-08-09T22:48:54Z",
                 "owner": "lucasastorian",
                 "repo": "llmwiki",
-                "stars": 1524
+                "stars": 1527
               }
             },
             {
@@ -816,37 +726,7 @@
                 "last_commit": "2026-08-24T23:09:42Z",
                 "owner": "nvk",
                 "repo": "llm-wiki",
-                "stars": 1061
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "CodeAlmanac",
-              "description": "(GitHub) - A local codebase wiki CLI for agents. Automatically syncs agent sessions and runs local background gardening passes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1212149375,
-                "language": "TypeScript",
-                "last_commit": "2026-07-25T00:00:46Z",
-                "owner": "AlmanacCode",
-                "repo": "codealmanac",
-                "stars": 813
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "sage-wiki (xoai)",
-              "description": "(X Article) - A Go-based graph memory and compiling engine implementing the Karpathy LLM Wiki pattern. Supports flat-file raw document ingestion, hybrid chunk-level search (BM25 + vectors + graph traversal), 19 MCP tools, an interactive terminal dashboard (TUI), and a web UI server. Features opt-in triple extraction and entity resolution to construct an evidenced graph with source provenance and per-fact citations.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1201146782,
-                "language": "Go",
-                "last_commit": "2026-08-23T01:40:57Z",
-                "owner": "xoai",
-                "repo": "sage-wiki",
-                "stars": 590
+                "stars": 1066
               }
             },
             {
@@ -877,21 +757,6 @@
                 "owner": "ussumant",
                 "repo": "llm-wiki-compiler",
                 "stars": 318
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "AI Research OS",
-              "description": "A file-driven multi-agent research framework and compilation engine. It aggregates local notes, codebase snapshots, and web captures into an immutable raw directory, generating a mirrored, highly interconnected LLM Wiki layer composed of flat markdown concept nodes and a unified YAML schema map to optimize downstream context validation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1259565283,
-                "language": "Python",
-                "last_commit": "2026-06-27T09:02:20Z",
-                "owner": "iusztinpaul",
-                "repo": "ai-research-os-workshop",
-                "stars": 167
               }
             },
             {
@@ -956,36 +821,6 @@
             },
             {
               "node_type": "item",
-              "title": "Wenlan",
-              "description": "A local-first Rust CLI and daemon that turns source-backed captures into maintained Markdown wiki pages, with citation-gated refresh, MCP access, agent plugins, and inspectable local Git history.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1215417088,
-                "language": "Rust",
-                "last_commit": "2026-08-25T06:32:49Z",
-                "owner": "7xuanlu",
-                "repo": "wenlan",
-                "stars": 51
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "LWC",
-              "description": "(GitHub / npm) - A proactive agent memory CLI written in Rust, designed to connect local Markdown files and SQLite knowledge graphs directly to agent workspaces (Claude Code, Codex, Cursor, pi). It allows agents to autonomously recall, maintain, and update source-grounded wiki pages, citations, and links, featuring native MCP server hosting, bitemporal segmentation locators, and a bundled self-configuration installer skill.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1316178203,
-                "language": "Rust",
-                "last_commit": "2026-08-24T16:51:09Z",
-                "owner": "JanYork",
-                "repo": "llm-wiki-cli",
-                "stars": 47
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Open Knowledge CLI",
               "description": "(Website) - An open-source CLI, daemon, and isolated Docker runtime implementing the OKF v0.1 spec for self-maintaining repositories.",
               "children": [],
@@ -1012,21 +847,6 @@
                 "owner": "cobusgreyling",
                 "repo": "llm-wiki",
                 "stars": 41
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "wiki-from-code-with-llm-wiki-karpathy (balukosuri)",
-              "description": "(Companion Article) - A codebase documentation compiler template and Git post-commit hook configuration. Automatically triggers on commit to diff changes, feeding them to Claude Code, Cursor, or Codex to compile and maintain a structured Markdown wiki (architecture, APIs, user guides, decisions) alongside a pre-configured Obsidian vault.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1213286773,
-                "language": "Shell",
-                "last_commit": "2026-04-17T08:26:29Z",
-                "owner": "balukosuri",
-                "repo": "wiki-from-code-with-llm-wiki-karpathy",
-                "stars": 31
               }
             },
             {
@@ -1136,66 +956,6 @@
             },
             {
               "node_type": "item",
-              "title": "PENgram (Penfield Labs)",
-              "description": "(Companion Article) - An open-source knowledge graph extraction pipeline. Parses raw content (code, documents, PDFs, audio transcripts) and compiles structured knowledge graphs with defined relationship types (supports, contradicts, supersedes) using a modular vocabulary, projecting to Obsidian vaults, HTML visualizations, and JSON schemas.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1214418710,
-                "language": "Python",
-                "last_commit": "2026-05-04T22:08:05Z",
-                "owner": "penfieldlabs",
-                "repo": "pengram",
-                "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "llm-code-wiki (dylannalex)",
-              "description": "A Python CLI tool that compiles codebase interactions and search results into a structured, local Markdown wiki. Features file hashing to track repository mutations, direct code file linking, and automated note updates.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1273877179,
-                "language": "Python",
-                "last_commit": "2026-07-06T20:38:49Z",
-                "owner": "dylannalex",
-                "repo": "llm-code-wiki",
-                "stars": 9
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "llm-wiki (ivankuznetsov)",
-              "description": "(Companion Article) - An open-source agent plugin and CLI manager implementing the Karpathy LLM Wiki pattern across multi-project environments, compatible with Claude Code, Codex, and Pi. Provides automated project bootstrapping, master cross-project wiki navigation boundaries, and context injection boundaries for CLAUDE.md and AGENTS.md.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1221094704,
-                "language": "Shell",
-                "last_commit": "2026-08-10T21:20:02Z",
-                "owner": "ivankuznetsov",
-                "repo": "llm-wiki",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "WikiMoth",
-              "description": "(GitHub) - A local-first deterministic memory compiler and retriever for plain-markdown wikis. Indexes and walks double-bracket wiki link graphs in code without LLMs or vector databases, reducing context size by ~99% while exposing auditable retrieval node-chains and a zero-dependency web viewer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1276125111,
-                "language": "Python",
-                "last_commit": "2026-07-04T20:38:35Z",
-                "owner": "juliangeymonat-jpg",
-                "repo": "wikimoth",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
               "title": "vault-curator",
               "description": "A local, Python-based knowledge system compiler that transforms massive Markdown vaults into self-organizing environments for AI agents. It processes flat-file directories to automatically inject structural frontmatter metadata, compute semantic connection links, and compile persistent Maps of Content (MOCs) to optimize downstream agent retrieval.",
               "children": [],
@@ -1283,6 +1043,260 @@
                 "repo": "lexicon",
                 "stars": 1
               }
+            }
+          ],
+          "description": "Command-line tools, daemons, and background scripts that compile and garden general personal knowledge bases and digital brains.",
+          "node_type": "group",
+          "title": "General-Purpose Wiki Compilers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenWiki (LangChain)",
+              "description": "(Introductory Blog Post) - An open-source CLI that compiles and maintains flat-file Markdown agent documentation inside the directory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277477208,
+                "language": "TypeScript",
+                "last_commit": "2026-08-25T15:56:14Z",
+                "owner": "langchain-ai",
+                "repo": "openwiki",
+                "stars": 15610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ByteRover",
+              "description": "(Website) - An open-source, file-based local memory engine and interactive CLI tool that compiles codebase interactions into a hierarchical Context Tree, featuring agent-native curation, an adaptive knowledge lifecycle layer, sub-100ms hybrid text retrieval, and multi-IDE MCP portability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005233473,
+                "language": "TypeScript",
+                "last_commit": "2026-06-25T17:00:57Z",
+                "owner": "campfirein",
+                "repo": "byterover-cli",
+                "stars": 4948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lat.md",
+              "description": "(GitHub) - A codebase knowledge graph format and CLI utility (\"Agent Lattice\") written in Markdown. Structures project context into a directory of interconnected files using wiki links and maps them back to the codebase via source code comments, featuring checks to prevent doc drift and support for offline semantic vector search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1177225364,
+                "language": "TypeScript",
+                "last_commit": "2026-08-25T00:39:57Z",
+                "owner": "vercel-labs",
+                "repo": "lat.md",
+                "stars": 1856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoSci",
+              "description": "An advanced, memory-centric autonomous scientific research platform powered by Claude Code. Implements a dual-layer markdown vault architecture () to separate long-term scientific knowledge from active project frames, featuring multi-model critique validation loops, rigid Pydantic-style front-matter schema definitions, and a continuous self-evolution pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206036567,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:59:54Z",
+                "owner": "skyllwt",
+                "repo": "AutoSci",
+                "stars": 1648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CodeAlmanac",
+              "description": "(GitHub) - A local codebase wiki CLI for agents. Automatically syncs agent sessions and runs local background gardening passes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212149375,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T00:00:46Z",
+                "owner": "AlmanacCode",
+                "repo": "codealmanac",
+                "stars": 806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI Research OS",
+              "description": "A file-driven multi-agent research framework and compilation engine. It aggregates local notes, codebase snapshots, and web captures into an immutable raw directory, generating a mirrored, highly interconnected LLM Wiki layer composed of flat markdown concept nodes and a unified YAML schema map to optimize downstream context validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1259565283,
+                "language": "Python",
+                "last_commit": "2026-06-27T09:02:20Z",
+                "owner": "iusztinpaul",
+                "repo": "ai-research-os-workshop",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wenlan",
+              "description": "A local-first Rust CLI and daemon that turns source-backed captures into maintained Markdown wiki pages, with citation-gated refresh, MCP access, agent plugins, and inspectable local Git history.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215417088,
+                "language": "Rust",
+                "last_commit": "2026-08-25T13:07:01Z",
+                "owner": "7xuanlu",
+                "repo": "wenlan",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LWC",
+              "description": "(GitHub / npm) - A proactive agent memory CLI written in Rust, designed to connect local Markdown files and SQLite knowledge graphs directly to agent workspaces (Claude Code, Codex, Cursor, pi). It allows agents to autonomously recall, maintain, and update source-grounded wiki pages, citations, and links, featuring native MCP server hosting, bitemporal segmentation locators, and a bundled self-configuration installer skill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1316178203,
+                "language": "Rust",
+                "last_commit": "2026-08-24T16:51:09Z",
+                "owner": "JanYork",
+                "repo": "llm-wiki-cli",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wiki-from-code-with-llm-wiki-karpathy (balukosuri)",
+              "description": "(Companion Article) - A codebase documentation compiler template and Git post-commit hook configuration. Automatically triggers on commit to diff changes, feeding them to Claude Code, Cursor, or Codex to compile and maintain a structured Markdown wiki (architecture, APIs, user guides, decisions) alongside a pre-configured Obsidian vault.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1213286773,
+                "language": "Shell",
+                "last_commit": "2026-04-17T08:26:29Z",
+                "owner": "balukosuri",
+                "repo": "wiki-from-code-with-llm-wiki-karpathy",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm-code-wiki (dylannalex)",
+              "description": "A Python CLI tool that compiles codebase interactions and search results into a structured, local Markdown wiki. Features file hashing to track repository mutations, direct code file linking, and automated note updates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273877179,
+                "language": "Python",
+                "last_commit": "2026-07-06T20:38:49Z",
+                "owner": "dylannalex",
+                "repo": "llm-code-wiki",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm-wiki (ivankuznetsov)",
+              "description": "(Companion Article) - An open-source agent plugin and CLI manager implementing the Karpathy LLM Wiki pattern across multi-project environments, compatible with Claude Code, Codex, and Pi. Provides automated project bootstrapping, master cross-project wiki navigation boundaries, and context injection boundaries for CLAUDE.md and AGENTS.md.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1221094704,
+                "language": "Shell",
+                "last_commit": "2026-08-10T21:20:02Z",
+                "owner": "ivankuznetsov",
+                "repo": "llm-wiki",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "CLI tools specifically engineered to scan source code, Git history, and AST structures to compile/maintain developer-facing agent docs.",
+          "node_type": "group",
+          "title": "Codebase and Documentation Builders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Understand Anything",
+              "description": "A highly advanced, cross-platform multi-agent compilation engine and plugin suite for Claude Code, Cursor, and Gemini CLI. Uses a deterministic Tree-sitter and LLM hybrid pipeline to synthesize directories into local, versionable knowledge-graph topologies, featuring a dedicated framework for parsing and visualizing community clusters within Karpathy-pattern markdown wikis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182081931,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T14:13:37Z",
+                "owner": "Egonex-AI",
+                "repo": "Understand-Anything",
+                "stars": 80462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atomic",
+              "description": "An open-source, self-hosted personal knowledge base built in Rust that transforms freeform markdown notes into a semantically linked graph, featuring asynchronous chunking pipelines via sqlite-vec, auto-generated tag wikis with inline citations, an integrated MCP server, and a force-directed canvas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103927253,
+                "language": "Rust",
+                "last_commit": "2026-08-09T20:19:46Z",
+                "owner": "kenforthewin",
+                "repo": "atomic",
+                "stars": 1927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sage-wiki (xoai)",
+              "description": "(X Article) - A Go-based graph memory and compiling engine implementing the Karpathy LLM Wiki pattern. Supports flat-file raw document ingestion, hybrid chunk-level search (BM25 + vectors + graph traversal), 19 MCP tools, an interactive terminal dashboard (TUI), and a web UI server. Features opt-in triple extraction and entity resolution to construct an evidenced graph with source provenance and per-fact citations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201146782,
+                "language": "Go",
+                "last_commit": "2026-08-23T01:40:57Z",
+                "owner": "xoai",
+                "repo": "sage-wiki",
+                "stars": 590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PENgram (Penfield Labs)",
+              "description": "(Companion Article) - An open-source knowledge graph extraction pipeline. Parses raw content (code, documents, PDFs, audio transcripts) and compiles structured knowledge graphs with defined relationship types (supports, contradicts, supersedes) using a modular vocabulary, projecting to Obsidian vaults, HTML visualizations, and JSON schemas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1214418710,
+                "language": "Python",
+                "last_commit": "2026-05-04T22:08:05Z",
+                "owner": "penfieldlabs",
+                "repo": "pengram",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WikiMoth",
+              "description": "(GitHub) - A local-first deterministic memory compiler and retriever for plain-markdown wikis. Indexes and walks double-bracket wiki link graphs in code without LLMs or vector databases, reducing context size by ~99% while exposing auditable retrieval node-chains and a zero-dependency web viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276125111,
+                "language": "Python",
+                "last_commit": "2026-07-04T20:38:35Z",
+                "owner": "juliangeymonat-jpg",
+                "repo": "wikimoth",
+                "stars": 8
+              }
             },
             {
               "node_type": "item",
@@ -1293,16 +1307,16 @@
                 "archived": false,
                 "id": 1204822776,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:13:36Z",
+                "last_commit": "2026-08-25T14:21:55Z",
                 "owner": "ca1773130n",
                 "repo": "Tesserae",
                 "stars": 1
               }
             }
           ],
-          "description": "CLI compilers, builders, and daemons that compile, link, and maintain local knowledge base structures.",
+          "description": "Compilers and utilities that parse Markdown link topologies to build typed knowledge graphs, semantic networks, and interactive node visualizations.",
           "node_type": "group",
-          "title": "CLI Compilers and Builders"
+          "title": "Graph Compilation and Semantic Link Analyzers"
         },
         {
           "children": [
@@ -1412,10 +1426,10 @@
                 "archived": false,
                 "id": 1137078255,
                 "language": "C",
-                "last_commit": "2026-08-22T18:02:38Z",
+                "last_commit": "2026-08-25T16:09:48Z",
                 "owner": "colbymchenry",
                 "repo": "codegraph",
-                "stars": 67984
+                "stars": 68066
               }
             },
             {
@@ -1427,10 +1441,10 @@
                 "archived": false,
                 "id": 1031059905,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:40:48Z",
+                "last_commit": "2026-08-25T10:53:04Z",
                 "owner": "abhigyanpatwari",
                 "repo": "GitNexus",
-                "stars": 45733
+                "stars": 45750
               }
             },
             {
@@ -1445,7 +1459,7 @@
                 "last_commit": "2026-08-24T16:02:51Z",
                 "owner": "DeusData",
                 "repo": "codebase-memory-mcp",
-                "stars": 40465
+                "stars": 40566
               }
             },
             {
@@ -1460,7 +1474,7 @@
                 "last_commit": "2026-08-22T23:01:11Z",
                 "owner": "tirth8205",
                 "repo": "code-review-graph",
-                "stars": 30801
+                "stars": 30823
               }
             },
             {
@@ -1475,7 +1489,7 @@
                 "last_commit": "2026-08-18T14:26:31Z",
                 "owner": "tobi",
                 "repo": "qmd",
-                "stars": 29170
+                "stars": 29190
               }
             },
             {
@@ -1487,10 +1501,10 @@
                 "archived": false,
                 "id": 1060036659,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:47:39Z",
+                "last_commit": "2026-08-25T13:24:38Z",
                 "owner": "agentic-box",
                 "repo": "memora",
-                "stars": 700
+                "stars": 701
               }
             },
             {
@@ -1505,7 +1519,7 @@
                 "last_commit": "2026-06-30T20:28:43Z",
                 "owner": "swarmclawai",
                 "repo": "swarmvault",
-                "stars": 669
+                "stars": 670
               }
             },
             {
@@ -1517,10 +1531,10 @@
                 "archived": false,
                 "id": 1222637509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:57:22Z",
+                "last_commit": "2026-08-25T15:55:01Z",
                 "owner": "zosmaai",
                 "repo": "pi-llm-wiki",
-                "stars": 526
+                "stars": 529
               }
             },
             {
@@ -1637,7 +1651,7 @@
                 "archived": false,
                 "id": 1209160454,
                 "language": "Rust",
-                "last_commit": "2026-08-21T23:20:56Z",
+                "last_commit": "2026-08-25T15:54:53Z",
                 "owner": "geronimo-iia",
                 "repo": "llm-wiki",
                 "stars": 26
@@ -1689,10 +1703,10 @@
                 "archived": false,
                 "id": 1086419061,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:35:02Z",
+                "last_commit": "2026-08-25T15:33:51Z",
                 "owner": "vectorize-io",
                 "repo": "hindsight",
-                "stars": 21058
+                "stars": 21100
               }
             },
             {
@@ -1704,10 +1718,10 @@
                 "archived": false,
                 "id": 897595329,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:35:42Z",
+                "last_commit": "2026-08-25T15:22:44Z",
                 "owner": "basicmachines-co",
                 "repo": "basic-memory",
-                "stars": 3752
+                "stars": 3754
               }
             },
             {
@@ -1719,7 +1733,7 @@
                 "archived": false,
                 "id": 1234232707,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:46:17Z",
+                "last_commit": "2026-08-25T11:19:30Z",
                 "owner": "rahilp",
                 "repo": "second-brain-cloudflare",
                 "stars": 732
@@ -1734,10 +1748,10 @@
                 "archived": false,
                 "id": 1155942967,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:57:39Z",
+                "last_commit": "2026-08-25T07:11:35Z",
                 "owner": "Fergana-Labs",
                 "repo": "stash",
-                "stars": 323
+                "stars": 324
               }
             },
             {
@@ -1779,7 +1793,7 @@
                 "archived": false,
                 "id": 1325971078,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:35:27Z",
+                "last_commit": "2026-08-25T16:02:41Z",
                 "owner": "sturlese",
                 "repo": "stigmergy",
                 "stars": 6
@@ -1801,10 +1815,10 @@
                 "archived": false,
                 "id": 1203558071,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T10:06:58Z",
+                "last_commit": "2026-08-25T12:08:51Z",
                 "owner": "TencentCloud",
                 "repo": "TencentDB-Agent-Memory",
-                "stars": 24314
+                "stars": 24407
               }
             },
             {
@@ -1819,7 +1833,7 @@
                 "last_commit": "2026-08-24T18:17:14Z",
                 "owner": "eugeniughelbur",
                 "repo": "obsidian-second-brain",
-                "stars": 4186
+                "stars": 4191
               }
             },
             {
@@ -1834,7 +1848,7 @@
                 "last_commit": "2026-08-24T04:07:01Z",
                 "owner": "SamurAIGPT",
                 "repo": "llm-wiki-agent",
-                "stars": 3447
+                "stars": 3453
               }
             },
             {
@@ -1849,7 +1863,7 @@
                 "last_commit": "2026-07-23T16:57:44Z",
                 "owner": "Astro-Han",
                 "repo": "karpathy-llm-wiki",
-                "stars": 2028
+                "stars": 2042
               }
             },
             {
@@ -1879,7 +1893,7 @@
                 "last_commit": "2026-04-07T03:16:20Z",
                 "owner": "NicholasSpisak",
                 "repo": "second-brain",
-                "stars": 687
+                "stars": 688
               }
             },
             {
@@ -1999,7 +2013,7 @@
                 "last_commit": "2026-06-16T09:14:20Z",
                 "owner": "sniperunder123",
                 "repo": "okf-knowledge",
-                "stars": 60
+                "stars": 61
               }
             },
             {
@@ -2251,6 +2265,21 @@
             },
             {
               "node_type": "item",
+              "title": "llm-wiki-nocode (rosidotidev)",
+              "description": "(Companion Article) - A no-code starter template implementing the LLM Wiki pattern. Pre-configures instruction files supporting both GitHub Copilot (.github/prompts/) and Claude Code (.claude/system_prompt.md) to manage ingestion and querying natively without vector databases or custom Python environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1247516906,
+                "language": null,
+                "last_commit": "2026-05-23T14:35:35Z",
+                "owner": "rosidotidev",
+                "repo": "llm-wiki-nocode",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
               "title": "cerebro (andresbuonaiuto)",
               "description": "An open-source workspace template and installable kit implementing Andrej Karpathy's LLM Wiki pattern. Provides a structured directory layout, a markdown conversion wrapper for books and PDFs, a detailed configuration blueprint (), and pre-configured agent instructions () for Cursor and Claude Code.",
               "children": [],
@@ -2267,13 +2296,13 @@
             {
               "node_type": "item",
               "title": "Verified Memory Vault (secondbrainstarter)",
-              "description": "A self-checking Obsidian vault for AI coding agents. Persistent memory (CLAUDE.md boot file, append-only MEMORY.md, daily notes) with two dependency-free Python tools: scores memory health (dated entries, duplicates, dead wikilinks, context-window bloat, inbox pressure) and an optional git pre-commit hook refuses mass deletions or MEMORY.md history rewrites — protecting the wiki from accidental destruction by the agent itself.",
+              "description": "A self-checking Obsidian vault for AI coding agents. Persistent memory (CLAUDE.md boot file, append-only MEMORY.md, daily notes) with two dependency-free Python tools: scores memory health (dated entries, duplicates, dead wikilinks, context-window bloat, inbox pressure) and an optional Git pre-commit hook refuses mass deletions or MEMORY.md history rewrites — protecting the wiki from accidental destruction by the agent itself.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1344864606,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:51:41Z",
+                "last_commit": "2026-08-25T08:27:48Z",
                 "owner": "secondbrainstarter",
                 "repo": "verified-memory-vault",
                 "stars": 1
@@ -2302,7 +2331,7 @@
             "last_commit": "2026-06-18T11:23:46Z",
             "owner": "Pratiyush",
             "repo": "llm-wiki",
-            "stars": 374
+            "stars": 375
           }
         }
       ],
@@ -2331,10 +2360,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:58.539Z",
+    "last_updated": "2026-08-25T16:29:45.099Z",
     "original_repository": "gavischneider/awesome-llm-wiki",
     "original_repository_id": 1243754968,
-    "original_repository_sha": "c41265192737220ad7319448dfd2177641b85fd8",
+    "original_repository_sha": "ba67d488934a3bf082b4345a06092c726f287d33",
     "enhanced_repository": "enhansome/enhansome-llm-wiki",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Wiki with stars"

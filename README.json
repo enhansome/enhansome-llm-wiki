@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1237010660,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-17T05:13:01Z",
+                "open_issues": 0,
                 "owner": "LeoBR84p",
                 "repo": "wiki_llm",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -28,12 +33,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agentic system to help studying, learning and researching topics, integrated with Obsidian via a plugin sidecar. ",
+                "homepage": null,
                 "id": 1143646260,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-05T12:19:23Z",
+                "open_issues": 0,
                 "owner": "DylanTartarini1996",
                 "repo": "dyresearch",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "fastapi",
+                  "gemini",
+                  "generative-ai",
+                  "google-adk",
+                  "lancedb",
+                  "llm-wiki",
+                  "pgvector",
+                  "postgresql",
+                  "pydantic",
+                  "rag",
+                  "research",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -57,12 +80,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+                "homepage": "https://www.graphify.com",
                 "id": 1200597263,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:29:00Z",
+                "open_issues": 1165,
                 "owner": "Graphify-Labs",
                 "repo": "graphify",
-                "stars": 112008
+                "stars": 112069,
+                "topics": [
+                  "ai-agents",
+                  "antigravity",
+                  "ast",
+                  "claude-code",
+                  "code-analysis",
+                  "code-search",
+                  "codex",
+                  "cursor",
+                  "developer-tools",
+                  "gemini",
+                  "graphrag",
+                  "knowledge-graph",
+                  "leiden",
+                  "llm",
+                  "mcp",
+                  "openclaw",
+                  "rag",
+                  "skills",
+                  "tree-sitter"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -73,12 +121,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+                "homepage": "https://evermind.ai/everos",
                 "id": 1085086903,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:45:52Z",
+                "open_issues": 77,
                 "owner": "EverMind-AI",
                 "repo": "EverOS",
-                "stars": 12518
+                "stars": 12523,
+                "topics": [
+                  "agent-memory",
+                  "agentic-ai",
+                  "ai",
+                  "chats",
+                  "clawdbot",
+                  "clawdbot-skill",
+                  "deepseek-harness",
+                  "dsh",
+                  "dsh-plugin",
+                  "llm",
+                  "long-term-memory",
+                  "mcp",
+                  "memory",
+                  "memory-management",
+                  "python3",
+                  "rag",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -89,12 +160,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenKB: Open LLM Knowledge Base",
+                "homepage": "https://pageindex.ai",
                 "id": 1201253077,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T03:45:16Z",
+                "open_issues": 52,
                 "owner": "VectifyAI",
                 "repo": "OpenKB",
-                "stars": 3975
+                "stars": 3994,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "knowledge-base",
+                  "llm",
+                  "rag",
+                  "retrieval"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -105,12 +188,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki",
+                "homepage": null,
                 "id": 1202549948,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:08:36Z",
+                "open_issues": 10,
                 "owner": "Ar9av",
                 "repo": "obsidian-wiki",
-                "stars": 3294
+                "stars": 3296,
+                "topics": [
+                  "agent-skills",
+                  "brain",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "llm-tools",
+                  "memory",
+                  "obsidian",
+                  "obsidian-brain",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -121,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+                "homepage": null,
                 "id": 1211537500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T23:32:59Z",
+                "open_issues": 5,
                 "owner": "codejunkie99",
                 "repo": "agentic-stack",
-                "stars": 2241
+                "stars": 2241,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -137,12 +240,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
+                "homepage": null,
                 "id": 1207529559,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T22:06:15Z",
+                "open_issues": 6,
                 "owner": "axoviq-ai",
                 "repo": "synthadoc",
-                "stars": 1114
+                "stars": 1114,
+                "topics": [
+                  "agent-skills",
+                  "agentic-ai",
+                  "cli-tool",
+                  "domain-adaptation",
+                  "enterprise",
+                  "enterprise-solutions",
+                  "knowledge-graph",
+                  "local-llm",
+                  "obsidian-md",
+                  "obsidian-plugin",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "rag-alternative",
+                  "synthetic",
+                  "synthetic-data"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -153,12 +277,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your Company Agentic Operating System",
+                "homepage": "https://agent-swarm.dev",
                 "id": 1119736729,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T18:39:02Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:31:05Z",
+                "open_issues": 13,
                 "owner": "desplega-ai",
                 "repo": "agent-swarm",
-                "stars": 726
+                "stars": 726,
+                "topics": [
+                  "agent-harness",
+                  "agent-memory",
+                  "agent-teams",
+                  "agentic",
+                  "agentic-framework",
+                  "agentic-os",
+                  "ai-agents",
+                  "ai-memory",
+                  "ai-memory-system",
+                  "docker",
+                  "framework",
+                  "harness-engineering",
+                  "harness-execution-layer",
+                  "human-in-the-loop",
+                  "llms",
+                  "multi-agent",
+                  "orchestration",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -169,12 +317,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knowledge graph extractor: Markdown (or any format) to knowledge graph with RDFS/OWL ontology",
+                "homepage": null,
                 "id": 1251771970,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T17:20:30Z",
+                "open_issues": 3,
                 "owner": "SenolIsci",
                 "repo": "mykg",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "ai-agent",
+                  "ai-workflow",
+                  "ai-workflow-automation",
+                  "claude-code",
+                  "claude-skills",
+                  "knowledge-graph",
+                  "mcp-server",
+                  "neo4j-graph",
+                  "network-x",
+                  "obsidian",
+                  "ontology",
+                  "ontology-alignment",
+                  "ontology-engineering",
+                  "ontology-matching",
+                  "open-source",
+                  "owl",
+                  "protege",
+                  "rdf",
+                  "rdfs",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -185,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline-first, SQLite-backed, tiered, multi-entity memory for LLM apps built with Expo, React, Node, or plain JS",
+                "homepage": null,
                 "id": 1224692542,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:49:39Z",
+                "open_issues": 5,
                 "owner": "equationalapplications",
                 "repo": "expo-llm-wiki",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -201,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1270030224,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-12T22:22:47Z",
+                "open_issues": 0,
                 "owner": "smgam29",
                 "repo": "knowhub",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -217,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Context-Memory Harness for AI Agents. Context Window = RAM, Local Wiki = Disk.",
+                "homepage": null,
                 "id": 1317276020,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-15T06:53:29Z",
+                "open_issues": 0,
                 "owner": "chancelu",
                 "repo": "llmwiki-harness",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -233,12 +422,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A production-grade knowledge base operating system — AI agents compile raw sources into persistent, cross-linked Markdown wikis with concurrency control, multi-provider LLM integration, FTS5 search, and community detection. One repo. Any agent. Any machine.",
+                "homepage": "https://pypi.org/project/baissarienterprises-llm-wiki/",
                 "id": 1276668180,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T21:35:33Z",
+                "open_issues": 0,
                 "owner": "JeanBaissari",
                 "repo": "llm-wiki-monorepo",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai-agents",
+                  "community-detection",
+                  "concurrency",
+                  "fts5",
+                  "hermes-agent",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "llm",
+                  "louvain",
+                  "markdown",
+                  "mcp-server",
+                  "python",
+                  "structured-output",
+                  "typescript",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -249,12 +459,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-healing local knowledge base where a local LLM compounds your documents across four memory tiers ,working, episodic, semantic, and procedural — with bi-temporal facts, automatic contradiction resolution, and scheduled memory maintenance.",
+                "homepage": "https://pypi.org/project/llm-compounding-wiki/",
                 "id": 1251965026,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T02:51:44Z",
+                "open_issues": 0,
                 "owner": "krishddd",
                 "repo": "llm-wiki",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "llm",
+                  "mcp",
+                  "ollama",
+                  "python",
+                  "rag",
+                  "wikipedia"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -272,12 +494,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+                "homepage": "https://weknora.weixin.qq.com",
                 "id": 1024118326,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:26:27Z",
+                "open_issues": 580,
                 "owner": "Tencent",
                 "repo": "WeKnora",
-                "stars": 20862
+                "stars": 20874,
+                "topics": [
+                  "agent",
+                  "agentic",
+                  "ai",
+                  "chatbot",
+                  "dsh-plugin",
+                  "embeddings",
+                  "evaluation",
+                  "generative-ai",
+                  "golang",
+                  "knowledge-base",
+                  "llm",
+                  "multi-tenant",
+                  "ollama",
+                  "openai",
+                  "question-answering",
+                  "rag",
+                  "reranking",
+                  "semantic-search",
+                  "vector-search",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -288,12 +536,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
+                "homepage": "https://grok-wiki.com/",
                 "id": 975318071,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T05:43:58Z",
+                "open_issues": 267,
                 "owner": "AsyncFuncAI",
                 "repo": "deepwiki-open",
-                "stars": 17811
+                "stars": 17813,
+                "topics": [
+                  "ai",
+                  "codex",
+                  "gemini",
+                  "github",
+                  "grok-cli",
+                  "ollama",
+                  "open-source",
+                  "openai",
+                  "openrouter",
+                  "self-hosted",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -304,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+                "homepage": null,
                 "id": 1204828304,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T06:42:02Z",
+                "open_issues": 229,
                 "owner": "nashsu",
                 "repo": "llm_wiki",
-                "stars": 16917
+                "stars": 16937,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -320,12 +590,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful, AI-native markdown IDE and LLM wiki",
+                "homepage": "https://openknowledge.ai",
                 "id": 1258203278,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T00:19:19Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T04:47:21Z",
+                "open_issues": 30,
                 "owner": "inkeep",
                 "repo": "open-knowledge",
-                "stars": 3679
+                "stars": 3680,
+                "topics": [
+                  "2nd-brain",
+                  "agent-skills",
+                  "claude",
+                  "codex",
+                  "company-brain",
+                  "docs",
+                  "knowledge-",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "llm",
+                  "llm-wiki",
+                  "llm-wiki-karpathy",
+                  "markdown",
+                  "markdown-editor",
+                  "md",
+                  "mdx",
+                  "notes",
+                  "pkm",
+                  "second-brain",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -336,12 +632,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
+                "homepage": "https://row-bot.ai",
                 "id": 1174747993,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:31:42Z",
+                "open_issues": 29,
                 "owner": "siddsachar",
                 "repo": "row-bot",
-                "stars": 1467
+                "stars": 1467,
+                "topics": [
+                  "ai-assistant",
+                  "langchain",
+                  "langchain-python",
+                  "local-llm",
+                  "ollama",
+                  "privacy",
+                  "react-agent",
+                  "sovereign-ai"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -352,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "your personal encyclopedia, written by agents",
+                "homepage": "https://whoami.wiki",
                 "id": 1142112814,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T00:03:28Z",
+                "open_issues": 8,
                 "owner": "whoami-wiki",
                 "repo": "whoami",
-                "stars": 526
+                "stars": 526,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -368,12 +683,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your own LLM-native WIKI (knowledge library). Search, extract, summarize, Q&A with contextual RAG, layered knowledge graph, and reinforced memory. Importantly use selected context to automatically generate skills, empowered by Claude subagents + CodeAct pipeline and gated by human review. **Try Live Demo**:  https://byo-wiki-demo.vercel.app",
+                "homepage": null,
                 "id": 1242896502,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-29T06:59:57Z",
+                "open_issues": 1,
                 "owner": "Lyra-stellAI",
                 "repo": "BYO-LLM-WIKI",
-                "stars": 267
+                "stars": 268,
+                "topics": [
+                  "agentic-ai",
+                  "autonomous-agents",
+                  "deep-agents",
+                  "karpathy-llm-wiki",
+                  "langchain",
+                  "llm-wiki",
+                  "mcp",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -384,12 +713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://wiki-wise.com",
                 "id": 1207076491,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-22T18:02:45Z",
+                "open_issues": 4,
                 "owner": "TristanH",
                 "repo": "wikiwise",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -400,12 +734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code slash commands or a local web dashboard.",
+                "homepage": null,
                 "id": 1274974969,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-24T15:26:07Z",
+                "open_issues": 0,
                 "owner": "PieroSierra",
                 "repo": "SecondBrain",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -416,12 +755,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source research workspace for connecting sources, evidence, notes and ideas. Built for academic research with Zotero integration. Available on MacOS, Windows and Linux.",
+                "homepage": "https://nodusresearch.com",
                 "id": 1269112987,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:10:38Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:27:47Z",
+                "open_issues": 6,
                 "owner": "Drakonis96",
                 "repo": "nodus",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "academic-research",
+                  "academic-tools",
+                  "archive",
+                  "database",
+                  "database-management",
+                  "graph",
+                  "investigation",
+                  "knowledge-graph",
+                  "library",
+                  "local-first",
+                  "open-science",
+                  "open-source",
+                  "papers",
+                  "pkm",
+                  "research",
+                  "study",
+                  "study-notes",
+                  "zotero",
+                  "zotero-addon",
+                  "zotero-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -432,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1217904456,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:55:02Z",
+                "open_issues": 0,
                 "owner": "cmblir",
                 "repo": "Myco",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -448,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1297013313,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-29T19:19:34Z",
+                "open_issues": 0,
                 "owner": "jp-lorenc1o",
                 "repo": "Eva-brain",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -464,12 +839,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wiki designed for both humans and agents to read and write.",
+                "homepage": "https://yologdev.github.io/yopedia/",
                 "id": 1202369085,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-22T12:06:36Z",
+                "open_issues": 13,
                 "owner": "yologdev",
                 "repo": "yopedia",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "ai-agent",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm",
+                  "wiki",
+                  "yopedia"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -480,12 +867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local, AI-powered knowledge system. Feed it documents — articles, PDFs, notes — and it automatically builds an interlinked wiki of key people, tools, and ideas. Have a multi-turn AI conversation with your knowledge. Explore everything as a visual knowledge graph in Obsidian. Sync seamlessly across computers via a private GitHub repository.",
+                "homepage": null,
                 "id": 1204108861,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:30:25Z",
+                "open_issues": 2,
                 "owner": "talirezun",
                 "repo": "the-curator",
-                "stars": 52
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -496,12 +888,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WikiMind is a personal LLM-powered knowledge OS. Feed it articles, PDFs, YouTube videos, podcasts, or papers — it compiles them into a structured wiki and answers questions with full source attribution.",
+                "homepage": "https://manavgup.github.io/wikimind/",
                 "id": 1202498601,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-19T23:25:22Z",
+                "open_issues": 22,
                 "owner": "manavgup",
                 "repo": "wikimind",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "ai",
+                  "fastapi",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "llm",
+                  "personal-wiki",
+                  "pkm",
+                  "python",
+                  "rag",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -512,12 +920,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silica allows you or your agent to automatically and systematically create and manage a knowledge base that can be used seamlessly by both.",
+                "homepage": "https://silica-agent.vercel.app",
                 "id": 1248657228,
                 "language": "Python",
-                "last_commit": "2026-08-25T12:56:31Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T01:43:23Z",
+                "open_issues": 0,
                 "owner": "kiycoh",
                 "repo": "silica-harness",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "codex",
+                  "graph",
+                  "graph-theory",
+                  "llm",
+                  "llm-wiki",
+                  "obsidian",
+                  "silica"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -528,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local-first knowledge layer over your email archive that turns long-term history into source-attributed memory surfaces.",
+                "homepage": "https://memento-demo.latentsignal.org",
                 "id": 1268022350,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-08T02:36:28Z",
+                "open_issues": 1,
                 "owner": "latentsignal-org",
                 "repo": "memento",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -544,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide: ChatGPT / Claude / Gemini → XTrace MemHub → LLM-Wiki mindmap & Obsidian Markdown export",
+                "homepage": null,
                 "id": 1226897605,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-02T00:53:03Z",
+                "open_issues": 0,
                 "owner": "XTraceAI",
                 "repo": "memhub-llm-wiki-guide",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -560,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://wikimind-lac.vercel.app",
                 "id": 1308706021,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-08T06:08:35Z",
+                "open_issues": 0,
                 "owner": "JayashanManodya",
                 "repo": "WikiMind",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -583,12 +1022,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+                "homepage": "skool.com/ai-marketing-hub-pro",
                 "id": 1203670949,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T11:43:21Z",
+                "open_issues": 141,
                 "owner": "AgriciDaniel",
                 "repo": "claude-obsidian",
-                "stars": 14300
+                "stars": 14311,
+                "topics": [
+                  "agent-skills",
+                  "ai-note-taking",
+                  "ai-second-brain",
+                  "claude-code",
+                  "claude-code-skill",
+                  "claude-memory",
+                  "claude-plugin",
+                  "karpathy-llm-wiki",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "note-taking",
+                  "notion-alternative",
+                  "obsidian",
+                  "obsidian-ai",
+                  "obsidian-plugin",
+                  "obsidian-second-brain",
+                  "open-source",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -599,12 +1064,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
+                "homepage": "https://llmwiki.greenerai.top",
                 "id": 1221689260,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:41:08Z",
+                "open_issues": 23,
                 "owner": "green-dalii",
                 "repo": "obsidian-llm-wiki",
-                "stars": 505
+                "stars": 505,
+                "topics": [
+                  "graph-algorithms",
+                  "karpathy",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "llm-wiki",
+                  "markdown",
+                  "note-taking",
+                  "obsidian",
+                  "obsidian-plugins",
+                  "pdf",
+                  "pdf-processing",
+                  "privacy-first"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -615,12 +1098,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP.",
+                "homepage": "https://pssah4.github.io/vault-operator/",
                 "id": 1161290309,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T12:31:04Z",
+                "open_issues": 8,
                 "owner": "pssah4",
                 "repo": "vault-operator",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "ai",
+                  "automation",
+                  "knowledge-management",
+                  "llm-wiki",
+                  "memory",
+                  "obsidian-plugin",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -631,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1204835226,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-15T17:26:33Z",
+                "open_issues": 5,
                 "owner": "domleca",
                 "repo": "llm-wiki",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -647,12 +1148,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP — edits Markdown on disk (no cloud, no Logseq API). Karpathy LLM-Wiki inspired.",
+                "homepage": null,
                 "id": 1241185104,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:43:14Z",
+                "open_issues": 79,
                 "owner": "MarcoPorcellato",
                 "repo": "matryca-plumber",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "agentic-memory",
+                  "ai-agents",
+                  "andrej-karpathy",
+                  "autonomous-agents",
+                  "fastmcp",
+                  "knowledge-graph",
+                  "llm",
+                  "llm-wiki",
+                  "llm-wiki-karpathy",
+                  "local-first",
+                  "logseq",
+                  "markdown",
+                  "matryca",
+                  "mcp",
+                  "model-context-protocol",
+                  "outliner",
+                  "pkm",
+                  "python",
+                  "rag",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -663,12 +1190,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.",
+                "homepage": "http://infranodus.com",
                 "id": 16803743,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-23T01:40:48Z",
+                "open_issues": 192,
                 "owner": "noduslabs",
                 "repo": "infranodus",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "data-analysis",
+                  "datavisualization",
+                  "dataviz",
+                  "graph-visualization",
+                  "javascript",
+                  "neo4j",
+                  "network-analysis",
+                  "nodejs",
+                  "text-mining",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -679,12 +1222,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code plugin for building LLM-maintained Obsidian wikis from raw research — compile, query, lint, and evolve your personal knowledge base. Inspired by Karpathy's knowledge base workflow.",
+                "homepage": null,
                 "id": 1199980942,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-06-16T15:24:46Z",
+                "open_issues": 0,
                 "owner": "rvk7895",
                 "repo": "llm-knowledge-bases",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "claude",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "knowledge-base",
+                  "llm",
+                  "note-taking",
+                  "obsidian",
+                  "personal-wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -695,12 +1252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TiddlyWiki-based LLM knowledge base",
+                "homepage": null,
                 "id": 1210650272,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-16T14:32:20Z",
+                "open_issues": 0,
                 "owner": "Jermolene",
                 "repo": "twillm",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -711,12 +1273,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Obsidian plugin that adds a custom Bases view which renders notes as an interactive force-directed graph — purpose-built for exploring, tracking and growing a knowledge base note by note.",
+                "homepage": "https://dsebastien.github.io/obsidian-graph-explorer-base-view/",
                 "id": 1203529865,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:15:08Z",
+                "open_issues": 0,
                 "owner": "dsebastien",
                 "repo": "obsidian-graph-explorer-base-view",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "obsidian",
+                  "obsidian-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -727,12 +1297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1252131252,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T09:36:48Z",
+                "open_issues": 0,
                 "owner": "youzhixiaomutou",
                 "repo": "auto-llm-wiki",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -750,12 +1325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+                "homepage": null,
                 "id": 1202057891,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:01:37Z",
+                "open_issues": 177,
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 29249
+                "stars": 29255,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -766,12 +1346,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to run, and more stable.",
+                "homepage": "https://seekdb.ai",
                 "id": 1080442728,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:27:30Z",
+                "open_issues": 473,
                 "owner": "oceanbase",
                 "repo": "seekdb",
-                "stars": 2890
+                "stars": 2890,
+                "topics": [
+                  "ai-agents",
+                  "copy-on-write",
+                  "embedded-database",
+                  "full-text-search",
+                  "hnsw",
+                  "hybrid-search",
+                  "langchain",
+                  "llamaindex",
+                  "mysql",
+                  "oceanbase",
+                  "python",
+                  "rag",
+                  "sql",
+                  "vector-databases"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -782,12 +1382,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
+                "homepage": "https://llmwiki.atomicstrata.ai",
                 "id": 1202251960,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:39:12Z",
+                "open_issues": 19,
                 "owner": "atomicstrata",
                 "repo": "llm-wiki-compiler",
-                "stars": 1974
+                "stars": 1974,
+                "topics": [
+                  "cli",
+                  "compiler",
+                  "context-engineering",
+                  "karpathy",
+                  "knowledge-base",
+                  "knowledge-compilation",
+                  "llm",
+                  "markdown",
+                  "obsidian",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -798,12 +1414,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+                "homepage": "https://llmwiki.app",
                 "id": 1201432708,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T22:48:54Z",
+                "open_issues": 25,
                 "owner": "lucasastorian",
                 "repo": "llmwiki",
-                "stars": 1542
+                "stars": 1542,
+                "topics": [
+                  "agents",
+                  "ai-agents",
+                  "claude",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm",
+                  "llm-wiki",
+                  "mcp",
+                  "mcp-server",
+                  "rag",
+                  "supabase"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -814,12 +1447,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation. ",
+                "homepage": "https://llm-wiki.net/",
                 "id": 1201628267,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:55:02Z",
+                "open_issues": 21,
                 "owner": "nvk",
                 "repo": "llm-wiki",
-                "stars": 1147
+                "stars": 1148,
+                "topics": [
+                  "agentic-ai",
+                  "agentic-skills",
+                  "agentic-workflow",
+                  "claude-code",
+                  "codex",
+                  "llm",
+                  "plugin",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -830,12 +1477,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours.",
+                "homepage": null,
                 "id": 1203574922,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-26T04:04:24Z",
+                "open_issues": 2,
                 "owner": "kytmanov",
                 "repo": "obsidian-llm-wiki-local",
-                "stars": 811
+                "stars": 811,
+                "topics": [
+                  "git-based-wiki",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm-knowledge-base",
+                  "llm-pipeline",
+                  "llm-tools",
+                  "llm-wiki",
+                  "local-first-ai",
+                  "local-llm",
+                  "markdown-wiki",
+                  "obsidian",
+                  "obsidian-llm",
+                  "obsidian-wiki",
+                  "ollama",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "rag-alternative",
+                  "rag-local",
+                  "second-brain",
+                  "self-hosted-wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -846,12 +1519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start building your second brain.",
+                "homepage": null,
                 "id": 1205958059,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-24T09:02:40Z",
+                "open_issues": 2,
                 "owner": "shannhk",
                 "repo": "llm-wikid",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -862,12 +1540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern.",
+                "homepage": null,
                 "id": 1201396597,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-21T08:55:48Z",
+                "open_issues": 1,
                 "owner": "ussumant",
                 "repo": "llm-wiki-compiler",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -878,12 +1561,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OKF (Open Knowledge Format): Durable, structured memory for AI agents. Author, validate, consume, and maintain portable knowledge bundles through an ecosystem of Skills, MCP, an interactive graph, TUI, CLI, Docker, and a Claude Code plugin. 100% local.",
+                "homepage": "https://okfgem.com/",
                 "id": 1297638533,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T20:32:29Z",
+                "open_issues": 2,
                 "owner": "serradura",
                 "repo": "okf",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude-code",
+                  "cli",
+                  "developer-tools",
+                  "docker-image",
+                  "documentation",
+                  "harness-ai",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "llm-tools",
+                  "okf",
+                  "open-knowledge-format",
+                  "structured-knowledge",
+                  "toolkit",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -894,12 +1599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Knowledge Base Protocol.",
+                "homepage": null,
                 "id": 1224360317,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-17T10:09:31Z",
+                "open_issues": 0,
                 "owner": "rohitg00",
                 "repo": "akbp",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -910,12 +1620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An LLM-powered personal wiki CLI.",
+                "homepage": null,
                 "id": 1201817479,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-06T12:22:45Z",
+                "open_issues": 4,
                 "owner": "hellohejinyu",
                 "repo": "llm-wiki",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -926,12 +1641,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local LLM-maintained personal wiki, built on Karpathy's LLM-Wiki pattern. Runs on Ollama + Qwen3 + QMD.",
+                "homepage": null,
                 "id": 1205550944,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-20T13:44:29Z",
+                "open_issues": 1,
                 "owner": "NiharShrotri",
                 "repo": "llm-wiki",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "fastapi",
+                  "hybrid-search",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm",
+                  "local-llm",
+                  "obsidian",
+                  "ollama",
+                  "personal-knowledge-management",
+                  "qwen",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -942,12 +1674,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool for managing Open Knowledge Format (OKF) bundles.",
+                "homepage": "https://openknowledge.sh",
                 "id": 1270574805,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T06:32:09Z",
+                "open_issues": 18,
                 "owner": "openknowledge-sh",
                 "repo": "openknowledge",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "cli",
+                  "okf",
+                  "okf-format",
+                  "okf-validate",
+                  "openknowledgeformat"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -958,12 +1701,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A compounding knowledge base maintained by LLM agents — inspired by Karpathy's LLM Wiki pattern",
+                "homepage": null,
                 "id": 1288101814,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-06T11:17:30Z",
+                "open_issues": 0,
                 "owner": "cobusgreyling",
                 "repo": "llm-wiki",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "agents",
+                  "ai-agents",
+                  "blog",
+                  "documentation",
+                  "index",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm",
+                  "markdown",
+                  "mcp",
+                  "obsidian",
+                  "personal-knowledge-management"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -974,12 +1735,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compile documents into a living Obsidian wiki. Any AI agent. Based on Karpathy's LLM Wiki pattern.",
+                "homepage": "https://github.com/vbarsoum1/llm-wiki-compiler#quick-start",
                 "id": 1200066597,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-10T22:32:40Z",
+                "open_issues": 0,
                 "owner": "vbarsoum1",
                 "repo": "llm-wiki-compiler",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "ai-agents",
+                  "claude-code",
+                  "cursor",
+                  "karpathy",
+                  "knowledge-base",
+                  "knowledge-compiler",
+                  "llm",
+                  "obsidian",
+                  "rag-alternative",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -990,12 +1767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your knowledge, LLM compiled.  Open source. Self-hosted.",
+                "homepage": null,
                 "id": 1201074450,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-05T15:48:08Z",
+                "open_issues": 0,
                 "owner": "VihariKanukollu",
                 "repo": "browzy.ai",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1006,12 +1788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ LLM-powered knowledge compiler — turn documents into a confidence-scored, temporal knowledge base with interactive dashboard",
+                "homepage": null,
                 "id": 1203822672,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T15:32:01Z",
+                "open_issues": 0,
                 "owner": "anzal1",
                 "repo": "quicky-wiki",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1022,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered second brain — bookmark, compile, query",
+                "homepage": null,
                 "id": 1203129854,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-10T13:21:14Z",
+                "open_issues": 1,
                 "owner": "swarajbachu",
                 "repo": "cachezero",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1038,12 +1830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Llm wiki in open knowledge format",
+                "homepage": null,
                 "id": 1289973161,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T07:01:08Z",
+                "open_issues": 2,
                 "owner": "jeromeetienne",
                 "repo": "mnemo_wiki",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1054,12 +1851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "llm_wiki_rag_pipeline",
+                "homepage": null,
                 "id": 1208674170,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-12T15:56:39Z",
+                "open_issues": 0,
                 "owner": "plaban1981",
                 "repo": "llm_wiki_rag_pipeline",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1070,12 +1872,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first knowledge graph that gives your AI assistant durable, provenance-backed memory across sessions.",
+                "homepage": null,
                 "id": 1235713026,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T03:28:46Z",
+                "open_issues": 0,
                 "owner": "rahulmranga",
                 "repo": "knowledge-worker",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "ai-memory-vault",
+                  "knowledge-graph",
+                  "llm-memory",
+                  "local-first",
+                  "personal-knowledge-management",
+                  "provenance",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1086,12 +1901,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "llmwiki (Quiz_wiki) — auto-captures your coding-agent sessions (Claude Code / Codex / OpenCode) into a compounding, local-first project wiki that quizzes you back. The llmwiki quiz is a daily forgetting-curve quiz (/wiki-quiz) that keeps your memory of your own decisions sharp. Markdown as source of truth, no MCP, no build.",
+                "homepage": null,
                 "id": 1298253489,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T12:51:19Z",
+                "open_issues": 0,
                 "owner": "suwonleee",
                 "repo": "llmwiki",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ai-agents",
+                  "bun",
+                  "claude-code",
+                  "codex",
+                  "developer-tools",
+                  "documentation",
+                  "knowledge-base",
+                  "llm",
+                  "llmwiki",
+                  "local-first",
+                  "markdown",
+                  "memory",
+                  "opencode",
+                  "quiz",
+                  "quiz-wiki",
+                  "spaced-repetition",
+                  "sqlite",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1102,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transform large Obsidian vaults into self-organizing knowledge systems using LLM metadata enrichment, embedding-based semantic linking, and automatic MOC generation.",
+                "homepage": null,
                 "id": 1255272760,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-31T17:05:18Z",
+                "open_issues": 0,
                 "owner": "ClaudioDrews",
                 "repo": "vault-curator",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1118,12 +1962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tome is a Claude Code plugin and a CLI tool with skills and scripts to create an llm-wiki based on karpathy's suggestion, with a quartz rendering layer for enhanced user readability, and a CLI that keeps the content to-spec.  It's meant to be a one-click setup, just put it at your own private repo and go.",
+                "homepage": null,
                 "id": 1287833091,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T16:50:19Z",
+                "open_issues": 0,
                 "owner": "chicken-noodle-chris",
                 "repo": "tome",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1134,12 +1983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-Powered Quant Research Knowledge Base & Brainstorm Agent with Rethink Layer",
+                "homepage": null,
                 "id": 1200547821,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-07T08:01:46Z",
+                "open_issues": 0,
                 "owner": "jackwu321",
                 "repo": "Quant_LLM_Wiki",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1150,12 +2004,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knowledge that improves with age.",
+                "homepage": null,
                 "id": 1283007108,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-29T17:17:11Z",
+                "open_issues": 0,
                 "owner": "soyrochus",
                 "repo": "patina",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1166,12 +2025,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1199960819,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-07T02:41:03Z",
+                "open_issues": 0,
                 "owner": "jared-goering",
                 "repo": "lexicon",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -1189,12 +2053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+                "homepage": null,
                 "id": 1277477208,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:45:10Z",
+                "open_issues": 130,
                 "owner": "langchain-ai",
                 "repo": "openwiki",
-                "stars": 15794
+                "stars": 15796,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1205,12 +2074,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)",
+                "homepage": "https://docs.byterover.dev/",
                 "id": 1005233473,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-25T17:00:57Z",
+                "open_issues": 23,
                 "owner": "campfirein",
                 "repo": "byterover-cli",
-                "stars": 4950
+                "stars": 4950,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "autonomous-agents",
+                  "cli",
+                  "coding-assistant",
+                  "context-memory",
+                  "developer-tools",
+                  "knowledge-management",
+                  "llm",
+                  "mcp",
+                  "memory",
+                  "typescript",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1221,12 +2109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Lattice: a knowledge graph for your codebase, written in markdown.",
+                "homepage": "https://www.lat.md",
                 "id": 1177225364,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T00:17:16Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:35:36Z",
+                "open_issues": 30,
                 "owner": "vercel-labs",
                 "repo": "lat.md",
-                "stars": 1867
+                "stars": 1867,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1237,12 +2130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
+                "homepage": null,
                 "id": 1206036567,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:59:54Z",
+                "open_issues": 3,
                 "owner": "skyllwt",
                 "repo": "AutoSci",
-                "stars": 1653
+                "stars": 1654,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1253,12 +2151,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas.",
+                "homepage": "https://codealmanac.com",
                 "id": 1212149375,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T00:00:46Z",
+                "open_issues": 52,
                 "owner": "AlmanacCode",
                 "repo": "codealmanac",
-                "stars": 1009
+                "stars": 1009,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "cli",
+                  "codebase",
+                  "codex",
+                  "coding-agents",
+                  "developer-tools",
+                  "documentation",
+                  "knowledge-base",
+                  "typescript",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1269,12 +2184,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to turn your Second Brain into a living research memory that your agents maintain. Workshop with slides, video and code.",
+                "homepage": "https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_sf_online",
                 "id": 1259565283,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-27T09:02:20Z",
+                "open_issues": 0,
                 "owner": "iusztinpaul",
                 "repo": "ai-research-os-workshop",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "ai-agent",
+                  "ai-skills",
+                  "ai-workflow",
+                  "second-brain",
+                  "workflow-automation",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1285,12 +2212,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wenlan is a knowledge base for the AI-native age. Your AI agents capture what they learn, Wenlan keeps it current and distills it into source-cited wiki pages you can trust",
+                "homepage": "https://wenlan.app",
                 "id": 1215417088,
                 "language": "Rust",
-                "last_commit": "2026-08-28T07:54:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:46:06Z",
+                "open_issues": 2,
                 "owner": "7xuanlu",
                 "repo": "wenlan",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "ai-memory",
+                  "claude",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "codex",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "llm-wiki",
+                  "local-first",
+                  "mcp-server",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1301,12 +2245,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.",
+                "homepage": "https://janyork.github.io/llm-wiki-cli",
                 "id": 1316178203,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:35:20Z",
+                "open_issues": 0,
                 "owner": "JanYork",
                 "repo": "llm-wiki-cli",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "agent-memory-system",
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-agents-cli",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "command-line-tool",
+                  "context-engineering",
+                  "cursor",
+                  "gemini-cli",
+                  "hermes",
+                  "kiro",
+                  "knowledge-bases",
+                  "llm-wiki",
+                  "llm-wiki-karpathy",
+                  "local-first-ai",
+                  "opencode",
+                  "persistent-memory-tool",
+                  "proactive-memory"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1317,12 +2287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1213286773,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-04-17T08:26:29Z",
+                "open_issues": 1,
                 "owner": "balukosuri",
                 "repo": "wiki-from-code-with-llm-wiki-karpathy",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1333,12 +2308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1273877179,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-06T20:38:49Z",
+                "open_issues": 0,
                 "owner": "dylannalex",
                 "repo": "llm-code-wiki",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1349,12 +2329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Installable skills that bootstrap, maintain, and query LLM-readable project wikis for Claude Code, Codex, and Pi.",
+                "homepage": null,
                 "id": 1221094704,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-10T21:20:02Z",
+                "open_issues": 1,
                 "owner": "ivankuznetsov",
                 "repo": "llm-wiki",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -1372,12 +2357,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+                "homepage": "https://understand-anything.com/",
                 "id": 1182081931,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T06:38:15Z",
+                "open_issues": 293,
                 "owner": "Egonex-AI",
                 "repo": "Understand-Anything",
-                "stars": 80882
+                "stars": 80900,
+                "topics": [
+                  "antigravity-skills",
+                  "business-knowledge",
+                  "claude-code",
+                  "claude-skills",
+                  "codebase-analysis",
+                  "codex",
+                  "codex-skills",
+                  "developer-tools-ai-agent",
+                  "gemini-cli-skills",
+                  "karpathy-llm-wiki",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "memory",
+                  "opencode-skills",
+                  "pi-agent",
+                  "understandcode",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1388,12 +2396,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted, semantically-connected personal knowledge base",
+                "homepage": "https://atomicapp.ai",
                 "id": 1103927253,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-09T20:19:46Z",
+                "open_issues": 31,
                 "owner": "kenforthewin",
                 "repo": "atomic",
-                "stars": 1931
+                "stars": 1931,
+                "topics": [
+                  "knowledge-base"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1404,12 +2419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sage-wiki is a graph memory and knowledge base that AI agents and humans build and query together. Drop in documents; an LLM compiler turns them into an interlinked wiki with a knowledge graph. One Go binary scales it from a personal vault to a team hub to a company knowledge graph.",
+                "homepage": null,
                 "id": 1201146782,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T01:40:57Z",
+                "open_issues": 6,
                 "owner": "xoai",
                 "repo": "sage-wiki",
-                "stars": 591
+                "stars": 591,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1420,12 +2440,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧠 PENgram takes raw content - code, documents, YouTube channels, PDFs, audio, images - extracts entities and typed relationships, and outputs a structured knowledge graph ready for Penfield, Obsidian, or any graph-aware tool.",
+                "homepage": null,
                 "id": 1214418710,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-04T22:08:05Z",
+                "open_issues": 0,
                 "owner": "penfieldlabs",
                 "repo": "pengram",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ai",
+                  "graph",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "obsidian",
+                  "penfield",
+                  "pkm"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1436,12 +2469,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connects the dots across your notes and gives Claude the same answer every time, on a fraction of the tokens.",
+                "homepage": "https://wikimoth.com",
                 "id": 1276125111,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-04T20:38:35Z",
+                "open_issues": 1,
                 "owner": "juliangeymonat-jpg",
                 "repo": "wikimoth",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agent-memory",
+                  "claude",
+                  "mcp",
+                  "mcp-server",
+                  "obsidian",
+                  "rag",
+                  "wikilinks"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1452,12 +2498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://ca1773130n.github.io/Tesserae/",
                 "id": 1204822776,
                 "language": "Python",
-                "last_commit": "2026-08-28T21:53:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T05:00:39Z",
+                "open_issues": 2,
                 "owner": "ca1773130n",
                 "repo": "Tesserae",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -1475,12 +2526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Indexed knowledge bases with command-line tools for agents.",
+                "homepage": null,
                 "id": 1285643256,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:12:35Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:41:17Z",
+                "open_issues": 2,
                 "owner": "plasma-ai",
                 "repo": "wiki",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1491,12 +2547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1205802362,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T21:06:55Z",
+                "open_issues": 7,
                 "owner": "ilya-epifanov",
                 "repo": "wikidesk",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1507,12 +2568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your saved web into a local knowledge workspace for AI agents.",
+                "homepage": null,
                 "id": 1201773402,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-10T03:00:54Z",
+                "open_issues": 1,
                 "owner": "Lowside-Labs",
                 "repo": "Trove",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1523,12 +2589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐝 BeeWeave is an agent-native creation workbench that turns collected material, AI-assisted drafts, and durable markdown knowledge into a reusable creative data flywheel.",
+                "homepage": null,
                 "id": 1289660321,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T13:40:24Z",
+                "open_issues": 3,
                 "owner": "ptonlix",
                 "repo": "beeweave",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1539,12 +2610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notion Workspace Memory for your AI Assistant, Inspired from LLM Wiki",
+                "homepage": null,
                 "id": 1293192936,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-20T09:32:06Z",
+                "open_issues": 0,
                 "owner": "HemachandranD",
                 "repo": "notionwiki",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1555,12 +2631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-evolving Claude Code plugin that manages an Obsidian knowledge vault: capture, organize, index, garden — plus a meta-skill that improves the harness itself",
+                "homepage": null,
                 "id": 1201517600,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-29T05:19:31Z",
+                "open_issues": 0,
                 "owner": "crypdick",
                 "repo": "obsidian-knowledge",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -1578,12 +2659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+                "homepage": "https://colbymchenry.github.io/codegraph/",
                 "id": 1137078255,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:09:09Z",
+                "open_issues": 454,
                 "owner": "colbymchenry",
                 "repo": "codegraph",
-                "stars": 68505
+                "stars": 68518,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1594,12 +2680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+                "homepage": "https://gitnexus.vercel.app",
                 "id": 1031059905,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:22:09Z",
+                "open_issues": 345,
                 "owner": "abhigyanpatwari",
                 "repo": "GitNexus",
-                "stars": 46154
+                "stars": 46200,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1610,12 +2701,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+                "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
                 "id": 1166102148,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:13:43Z",
+                "open_issues": 516,
                 "owner": "DeusData",
                 "repo": "codebase-memory-mcp",
-                "stars": 41009
+                "stars": 41029,
+                "topics": [
+                  "aider",
+                  "ast",
+                  "claude-code",
+                  "code-analysis",
+                  "code-intelligence",
+                  "codex",
+                  "cursor",
+                  "cypher",
+                  "developer-tools",
+                  "gemini-cli",
+                  "graph-visualization",
+                  "kilocode",
+                  "knowledge-graph",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "opencode",
+                  "sqlite",
+                  "tree-sitter",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1626,12 +2743,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+                "homepage": "https://code-review-graph.com",
                 "id": 1167788341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T10:35:01Z",
+                "open_issues": 116,
                 "owner": "tirth8205",
                 "repo": "code-review-graph",
-                "stars": 30965
+                "stars": 30972,
+                "topics": [
+                  "ai-coding",
+                  "claude",
+                  "claude-code",
+                  "code-review",
+                  "graphrag",
+                  "incremental",
+                  "knowledge-graph",
+                  "llm",
+                  "mcp",
+                  "python",
+                  "static-analysis",
+                  "tree-sitter"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1642,12 +2777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+                "homepage": null,
                 "id": 1112365301,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T14:26:31Z",
+                "open_issues": 128,
                 "owner": "tobi",
                 "repo": "qmd",
-                "stars": 29328
+                "stars": 29332,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1658,12 +2798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+                "homepage": null,
                 "id": 1246148135,
                 "language": "Rust",
-                "last_commit": "2026-08-28T19:16:25Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:18:57Z",
+                "open_issues": 7,
                 "owner": "akitaonrails",
                 "repo": "ai-memory",
-                "stars": 5082
+                "stars": 5087,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1674,12 +2819,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Give your AI agents persistent, collective memory — with deduplicating absorb, supersession lineage, semantic search, and a graph UI. Speaks MCP.",
+                "homepage": null,
                 "id": 1060036659,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T08:03:30Z",
+                "open_issues": 2,
                 "owner": "agentic-box",
                 "repo": "memora",
-                "stars": 705
+                "stars": 705,
+                "topics": [
+                  "agent-memory",
+                  "ai-agent",
+                  "claude",
+                  "claude-code",
+                  "cloudflare-d1",
+                  "codex",
+                  "knowledge-graph",
+                  "llms",
+                  "mcp",
+                  "mcp-server",
+                  "memory",
+                  "model-context-protocol",
+                  "rag",
+                  "semantic-search",
+                  "semantic-search-algorithm",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1690,12 +2857,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+                "homepage": "https://www.swarmvault.ai",
                 "id": 1203219280,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T20:28:43Z",
+                "open_issues": 8,
                 "owner": "swarmclawai",
                 "repo": "swarmvault",
-                "stars": 673
+                "stars": 673,
+                "topics": [
+                  "agent-memory",
+                  "ai-agents",
+                  "claude-code",
+                  "claude-code-memory",
+                  "codex",
+                  "karpathy",
+                  "knowledge-graph",
+                  "llm",
+                  "llm-wiki",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "obsidian",
+                  "obsidian-alternative",
+                  "openclaw",
+                  "opencode",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "rag",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1706,12 +2899,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format (OKF) v0.2.",
+                "homepage": null,
                 "id": 1222637509,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:16:38Z",
+                "open_issues": 5,
                 "owner": "zosmaai",
                 "repo": "pi-llm-wiki",
-                "stars": 535
+                "stars": 536,
+                "topics": [
+                  "ai-memory",
+                  "interoperability",
+                  "karpathy",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "llm-wiki",
+                  "markdown",
+                  "mcp",
+                  "memory",
+                  "obsidian",
+                  "okf",
+                  "okf-v0-2",
+                  "open-knowledge-format",
+                  "pi",
+                  "pkm",
+                  "portable-knowledge",
+                  "second-brain",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1722,12 +2939,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your First LLM-Wiki Conversation Knowledge Base",
+                "homepage": "https://docs.beever.ai/atlas",
                 "id": 1217456816,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T20:33:11Z",
+                "open_issues": 56,
                 "owner": "Beever-AI",
                 "repo": "beever-atlas",
-                "stars": 442
+                "stars": 442,
+                "topics": [
+                  "agent-memory",
+                  "agents",
+                  "discord-bot",
+                  "fastapi",
+                  "gemini",
+                  "google-adk",
+                  "knowledge-base",
+                  "large-language-models",
+                  "llm",
+                  "mattermost",
+                  "mcp",
+                  "mcp-server",
+                  "microsoft-teams",
+                  "neo4j",
+                  "open-source",
+                  "python",
+                  "rag",
+                  "react",
+                  "slack-bot",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1738,12 +2981,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "More than just Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours.",
+                "homepage": null,
                 "id": 1239358196,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-08T01:04:47Z",
+                "open_issues": 12,
                 "owner": "kytmanov",
                 "repo": "synto",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "git-based-wiki",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm-knowledge-base",
+                  "llm-pipeline",
+                  "llm-tools",
+                  "llm-wiki",
+                  "local-first-ai",
+                  "local-llm",
+                  "markdown-wiki",
+                  "obsidian",
+                  "obsidian-llm",
+                  "obsidian-wiki",
+                  "ollama",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "rag-alternative",
+                  "rag-local",
+                  "second-brain",
+                  "self-hosted-wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1754,12 +3023,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local personal memory for LLM agents",
+                "homepage": "https://gowtham0992.github.io/link/",
                 "id": 1206602692,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-15T21:20:31Z",
+                "open_issues": 1,
                 "owner": "gowtham0992",
                 "repo": "link",
-                "stars": 176
+                "stars": 177,
+                "topics": [
+                  "knowledge-base",
+                  "llm",
+                  "local-memory",
+                  "markdown",
+                  "memory",
+                  "obsidian",
+                  "personal-wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1770,12 +3052,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on free local models (Ollama), no API key needed. MIT.",
+                "homepage": "https://frankchu91.github.io/mindbase-llm-wiki/",
                 "id": 1221815948,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:25:47Z",
+                "open_issues": 0,
                 "owner": "frankchu91",
                 "repo": "mindbase-llm-wiki",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "ai",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm",
+                  "llm-wiki",
+                  "llm-wiki-karpathy",
+                  "llm-wiki-knowledge-base",
+                  "llm-wiki-mcp",
+                  "llm-wiki-pattern",
+                  "llm-wiki-personal-knowledge-base",
+                  "llm-wiki-template",
+                  "local-llm",
+                  "mcp",
+                  "note-taking",
+                  "ollama",
+                  "second-brain",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1786,12 +3091,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stop re-explaining your research to your AI agent. Persistent, LLM-maintained wikis that compound over time. Drop PDFs, URLs, YouTube - your agent remembers forever. Based on Karpathy's LLM Wiki pattern.",
+                "homepage": null,
                 "id": 1203338557,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T20:31:04Z",
+                "open_issues": 1,
                 "owner": "iamsashank09",
                 "repo": "llm-wiki-kit",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "ai-agent",
+                  "knowledge-base",
+                  "llm",
+                  "llm-tools",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1802,12 +3119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Give your agent a knowledge graph that compounds.",
+                "homepage": null,
                 "id": 1210396606,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-15T05:23:31Z",
+                "open_issues": 0,
                 "owner": "Labhund",
                 "repo": "lacuna-wiki",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1818,12 +3140,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linkly AI CLI Tools",
+                "homepage": "https://linkly.ai",
                 "id": 1170849633,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T17:01:07Z",
+                "open_issues": 2,
                 "owner": "LinklyAI",
                 "repo": "linkly-ai-cli",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "agent-skills",
+                  "agent-tools",
+                  "knowledge-base",
+                  "mcp",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1834,12 +3167,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git-backed wiki engine with MCP server — build knowledge that compounds",
+                "homepage": "https://crates.io/crates/llm-wiki-engine",
                 "id": 1209160454,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:19:08Z",
+                "open_issues": 2,
                 "owner": "geronimo-iia",
                 "repo": "llm-wiki",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "acp",
+                  "dynamic-knowledge-repository",
+                  "git",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "mcp",
+                  "rust",
+                  "search",
+                  "tantivy",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1850,12 +3199,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent-native LLM Wiki (Karpathy-style) RAG: distill raw docs → structured Markdown wiki → hybrid search via MCP",
+                "homepage": "https://pieteams.github.io/piekbs/",
                 "id": 1283487773,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-31T06:53:03Z",
+                "open_issues": 0,
                 "owner": "pieteams",
                 "repo": "piekbs",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "knowledge",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "llmwiki",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1866,12 +3226,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git-backed MCP server that exposes Karpathy-style LLM wikis as a tool surface for AI coding agents",
+                "homepage": null,
                 "id": 1244013748,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-09T19:01:40Z",
+                "open_issues": 0,
                 "owner": "np6126",
                 "repo": "mcp-llm-wiki",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "git",
+                  "knowledge-base",
+                  "llm",
+                  "markdown",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "prompt-injection-defense",
+                  "python",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -1889,12 +3267,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hindsight: Agent Memory That  Learns",
+                "homepage": "https://hindsight.vectorize.io/",
                 "id": 1086419061,
                 "language": "Python",
-                "last_commit": "2026-08-28T21:13:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:29:34Z",
+                "open_issues": 139,
                 "owner": "vectorize-io",
                 "repo": "hindsight",
-                "stars": 21607
+                "stars": 21610,
+                "topics": [
+                  "agentic-ai",
+                  "agents",
+                  "ai-memory",
+                  "memory"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1905,12 +3293,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+                "homepage": "https://basicmemory.com",
                 "id": 897595329,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:10:53Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:58:21Z",
+                "open_issues": 63,
                 "owner": "basicmachines-co",
                 "repo": "basic-memory",
-                "stars": 3792
+                "stars": 3795,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "knowledge-management",
+                  "knowlege-graph",
+                  "llm",
+                  "local-first",
+                  "markdown",
+                  "mcp",
+                  "obsidian",
+                  "obsidian-md",
+                  "open-source",
+                  "privacy-first",
+                  "privacy-first-ai",
+                  "productivity",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1921,12 +3330,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier.",
+                "homepage": "https://www.thesecondbrain.dev",
                 "id": 1234232707,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:57:33Z",
+                "open_issues": 1,
                 "owner": "rahilp",
                 "repo": "second-brain-cloudflare",
-                "stars": 737
+                "stars": 737,
+                "topics": [
+                  "ai-memory",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "cloudflare",
+                  "cloudflare-workers",
+                  "d1",
+                  "ios-shortcuts",
+                  "mcp",
+                  "model-context-protocol",
+                  "obsidian-plugin",
+                  "personal-knowledge-management",
+                  "second-brain",
+                  "semantic-search",
+                  "typescript",
+                  "vectorize",
+                  "workers"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1937,12 +3369,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically create new skills based on past agent traces ",
+                "homepage": "https://www.joinstash.ai",
                 "id": 1155942967,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:39:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:11:09Z",
+                "open_issues": 52,
                 "owner": "Fergana-Labs",
                 "repo": "stash",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "agent-collaboration",
+                  "ai",
+                  "artifacts",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "coding-agent",
+                  "context-engineering",
+                  "continual-learning",
+                  "knowledge-base",
+                  "mcp",
+                  "memory",
+                  "multi-agent",
+                  "personal-knowledge-base",
+                  "personal-knowledge-management",
+                  "semantic-search",
+                  "skills",
+                  "wiki",
+                  "workspace"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1953,12 +3410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://openwiki.sh",
                 "id": 1282734010,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-02T00:07:59Z",
+                "open_issues": 0,
                 "owner": "vercel-labs",
                 "repo": "openwiki",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1969,12 +3431,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source MCP knowledge mesh - self-host your second brain, expose it to AI agents, federate with peers.",
+                "homepage": "https://trip2g.com",
                 "id": 1173239715,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T14:47:25Z",
+                "open_issues": 13,
                 "owner": "trip2g",
                 "repo": "trip2g",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "ai-agent-memory",
+                  "cms",
+                  "digital-garden",
+                  "golang",
+                  "knowledge-base",
+                  "markdown",
+                  "mcp-server",
+                  "obsidian",
+                  "obsidian-publish",
+                  "self-hosted",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -1985,12 +3464,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
+                "homepage": null,
                 "id": 1325971078,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:27:31Z",
+                "open_issues": 1,
                 "owner": "sturlese",
                 "repo": "stigmergy",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ai-agents",
+                  "claude",
+                  "hybrid-search",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "pgvector",
+                  "postgres",
+                  "python",
+                  "rag",
+                  "second-brain",
+                  "slack",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -2008,12 +3508,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+                "homepage": null,
                 "id": 1203558071,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T06:49:32Z",
+                "open_issues": 740,
                 "owner": "TencentCloud",
                 "repo": "TencentDB-Agent-Memory",
-                "stars": 25031
+                "stars": 25061,
+                "topics": [
+                  "agent",
+                  "ai-agent",
+                  "embedding",
+                  "llm",
+                  "local-first",
+                  "long-term-memory",
+                  "memory",
+                  "openclaw-plugin",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2024,12 +3539,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid semantic search, self-rewriting notes, key-less web research, and scheduled agents that maintain the vault while you sleep.",
+                "homepage": "https://eugeniughelbur.github.io/obsidian-second-brain/",
                 "id": 1190557545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:06:39Z",
+                "open_issues": 12,
                 "owner": "eugeniughelbur",
                 "repo": "obsidian-second-brain",
-                "stars": 4241
+                "stars": 4242,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-note-taking",
+                  "ai-second-brain",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-code-skill",
+                  "claude-memory",
+                  "claude-plugin",
+                  "claude-skill",
+                  "karpathy-llm-wiki",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "note-taking",
+                  "obsidian",
+                  "obsidian-md",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2040,12 +3581,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
+                "homepage": null,
                 "id": 630824392,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T04:07:01Z",
+                "open_issues": 3,
                 "owner": "SamurAIGPT",
                 "repo": "llm-wiki-agent",
-                "stars": 3468
+                "stars": 3468,
+                "topics": [
+                  "ai-agent",
+                  "ai-tools",
+                  "automation",
+                  "claude-code",
+                  "codex",
+                  "gemini",
+                  "generative-ai",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "llm",
+                  "markdown",
+                  "muapi",
+                  "note-taking",
+                  "obsidian",
+                  "open-source",
+                  "personal-knowledge-management",
+                  "rag",
+                  "research",
+                  "second-brain",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2056,12 +3623,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
+                "homepage": null,
                 "id": 1201775166,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-23T16:57:44Z",
+                "open_issues": 4,
                 "owner": "Astro-Han",
                 "repo": "karpathy-llm-wiki",
-                "stars": 2081
+                "stars": 2081,
+                "topics": [
+                  "agent-skill",
+                  "claude-code",
+                  "codex",
+                  "cursor",
+                  "karpathy",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "llm",
+                  "llm-wiki",
+                  "markdown",
+                  "personal-knowledge-base",
+                  "productivity",
+                  "rag-alternative"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2072,12 +3658,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+                "homepage": null,
                 "id": 1255412388,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-10T10:40:43Z",
+                "open_issues": 8,
                 "owner": "ClaudioDrews",
                 "repo": "memory-os",
-                "stars": 1343
+                "stars": 1343,
+                "topics": [
+                  "ai-memory",
+                  "context-injection",
+                  "docker",
+                  "ground-truth",
+                  "hermes-agent",
+                  "local-first",
+                  "open-source",
+                  "persistent-memory",
+                  "qdrant",
+                  "rag",
+                  "self-hosted",
+                  "vector-database"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2088,12 +3692,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
+                "homepage": null,
                 "id": 1203115035,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-04-07T03:16:20Z",
+                "open_issues": 1,
                 "owner": "NicholasSpisak",
                 "repo": "second-brain",
-                "stars": 691
+                "stars": 691,
+                "topics": [
+                  "agent-skills",
+                  "ai",
+                  "knowledge-base",
+                  "llm",
+                  "markdown",
+                  "obsidian",
+                  "personal-wiki",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2104,12 +3722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karpathy-style LLM knowledge base Agent Skill for OpenClaw/Codex. Experimental — will iterate over time.",
+                "homepage": null,
                 "id": 1201932323,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-16T06:01:13Z",
+                "open_issues": 4,
                 "owner": "lewislulu",
                 "repo": "llm-wiki-skill",
-                "stars": 651
+                "stars": 651,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2120,12 +3743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DAIR.AI Academy Plugins",
+                "homepage": null,
                 "id": 1147995273,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-07-21T22:42:21Z",
+                "open_issues": 0,
                 "owner": "dair-ai",
                 "repo": "dair-academy-plugins",
-                "stars": 608
+                "stars": 608,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2136,12 +3764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM-maintained personal wiki skills for Claude Code — implements Karpathy's LLM Wiki pattern",
+                "homepage": null,
                 "id": 1201653758,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-03T20:04:57Z",
+                "open_issues": 1,
                 "owner": "kfchou",
                 "repo": "wiki-skills",
-                "stars": 178
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2152,12 +3785,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
+                "homepage": null,
                 "id": 1204634199,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-06-08T15:10:15Z",
+                "open_issues": 0,
                 "owner": "MehmetGoekce",
                 "repo": "llm-wiki",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "ai",
+                  "claude-code",
+                  "developer-tools",
+                  "karpathy",
+                  "knowledge-management",
+                  "llm",
+                  "logseq",
+                  "obsidian",
+                  "productivity",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2168,12 +3817,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
+                "homepage": "https://praneybehl.github.io/llm-wiki-plugin/",
                 "id": 1211283074,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T15:48:47Z",
+                "open_issues": 11,
                 "owner": "praneybehl",
                 "repo": "llm-wiki-plugin",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "ai-tools",
+                  "claude-code-plugin",
+                  "claude-code-skill",
+                  "codex-skill",
+                  "cursor",
+                  "gemini-cli-skills",
+                  "karpathy",
+                  "knowledge-base",
+                  "knowledge-graphs",
+                  "knowledge-management",
+                  "llm-wiki",
+                  "obsidian",
+                  "openclaw-skills",
+                  "personal-knowledge-base",
+                  "pi-agent",
+                  "rag",
+                  "rag-alternative",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2184,12 +3857,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill for a persistent LLM-managed wiki — the LLM writes and cross-references while you curate sources.",
+                "homepage": null,
                 "id": 1231981195,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-11T20:25:40Z",
+                "open_issues": 0,
                 "owner": "sametbrr",
                 "repo": "llm-wiki-manager",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "agent-skills",
+                  "ai",
+                  "claude",
+                  "claude-code",
+                  "knowledge-base",
+                  "llm",
+                  "note-taking",
+                  "personal-knowledge-management",
+                  "python",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2200,12 +3889,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your markdown vault into a compounding knowledge wiki (Karpathy inspired). Six agent skills - knowledge grows with every conversation. Works with Obsidian, Logseq, etc. or just folders on your local drive. Compiled memory for your LLM sessions. Crossplatform. GUI install on Claude Desktop, no terminal, no code.",
+                "homepage": null,
                 "id": 1209515412,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-11T10:39:41Z",
+                "open_issues": 0,
                 "owner": "vanillaflava",
                 "repo": "llm-wiki-skills",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "agent-skills",
+                  "claude",
+                  "claude-ai",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm-wiki",
+                  "markdown",
+                  "no-code",
+                  "obsidian",
+                  "obsidian-vault",
+                  "pkm",
+                  "second-brain",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2216,12 +3924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable Claude Code skill (/okf) to create, read, maintain & visualize Open Knowledge Format (OKF) bundles - knowledge  as plain, git-versionable Markdown.",
+                "homepage": null,
                 "id": 1271023243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-16T09:14:20Z",
+                "open_issues": 1,
                 "owner": "sniperunder123",
                 "repo": "okf-knowledge",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2232,12 +3945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stack of tools and agent specialists built to help those who use LLMs as healthcare advisors.",
+                "homepage": null,
                 "id": 1188222543,
                 "language": "Go Template",
+                "license": null,
                 "last_commit": "2026-04-14T01:34:36Z",
+                "open_issues": 0,
                 "owner": "kamens",
                 "repo": "hstack",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2248,12 +3966,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is my implementation of Karpathy's LLM Wiki. A key highlight is the use of agent skills to enforce workflow rigidity and mitigate agent behavioral deviation.",
+                "homepage": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f/",
                 "id": 1239921355,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T02:27:26Z",
+                "open_issues": 0,
                 "owner": "TrueHOOHA",
                 "repo": "LLM-Wiki",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "agent-skill",
+                  "agent-skills",
+                  "karpathy-inspired",
+                  "karpathy-llm-wiki",
+                  "karpathy-wiki",
+                  "personal-wiki",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2264,12 +3995,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal knowledge vault plugin for Claude Code — session recording, memory distillation, and hybrid semantic + BM25 retrieval.",
+                "homepage": "https://cortexes.pages.dev",
                 "id": 1249756800,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T07:06:21Z",
+                "open_issues": 0,
                 "owner": "XBlueSky",
                 "repo": "cortexes",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "agent-memory",
+                  "bm25",
+                  "chromadb",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "embeddings",
+                  "knowledge-management",
+                  "obsidian",
+                  "personal-knowledge-management",
+                  "rag",
+                  "semantic-search"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2280,12 +4029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your online touchpoints into an interlinked Obsidian wiki like Andrej Karpathy. A Claude Code skill.",
+                "homepage": null,
                 "id": 1209557460,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-26T19:20:19Z",
+                "open_issues": 0,
                 "owner": "NoobAIDeveloper",
                 "repo": "engram",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2296,12 +4050,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown-first persistent memory and project planning for AI agents, existing knowledgebases, and multi-agent workflows.",
+                "homepage": "https://github.com/elmokirk/owledge/blob/main/docs/README.md",
                 "id": 1270535609,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T12:31:48Z",
+                "open_issues": 0,
                 "owner": "elmokirk",
                 "repo": "owledge",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "agent-memory",
+                  "ai-agents",
+                  "claude-code",
+                  "codex",
+                  "context-management",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "markdown",
+                  "multi-agent",
+                  "obsidian",
+                  "owledge",
+                  "project-planning"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2312,12 +4084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Durable, traceable project memory for AI coding agents. An evolution of Karpathy's LLM Wiki pattern built for codebases.",
+                "homepage": null,
                 "id": 1339472592,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:33:40Z",
+                "open_issues": 0,
                 "owner": "giodra96",
                 "repo": "project-wiki",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2328,12 +4105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1219409511,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-07-09T16:05:05Z",
+                "open_issues": 0,
                 "owner": "adamziel",
                 "repo": "Skills",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2344,12 +4126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated collection of 130+ Claude Code skills — plugins, workflows, and custom skills for AI-powered development",
+                "homepage": null,
                 "id": 1185504757,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2026-08-21T14:32:04Z",
+                "open_issues": 0,
                 "owner": "FelipeOFF",
                 "repo": "my-claude-code-skills",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -2367,12 +4154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1203674124,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-07T09:43:43Z",
+                "open_issues": 2,
                 "owner": "balukosuri",
                 "repo": "llm-wiki-karpathy",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2383,12 +4175,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A git template for building your own LLM-powered personal wiki. Training period, metadata standard, lint system included. Clone and go.",
+                "homepage": null,
                 "id": 1204396855,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-03T19:36:16Z",
+                "open_issues": 0,
                 "owner": "asakin",
                 "repo": "llm-context-base",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "karpathy",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "llm",
+                  "llm-wiki",
+                  "markdown",
+                  "obsidian",
+                  "personal-wiki"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2399,12 +4207,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zissa Wiki — an LLM-maintained research knowledge base in plain markdown, operated via Claude Code. Implements Karpathy's LLM Wiki pattern; ships a deterministic wiki-lint tool.",
+                "homepage": null,
                 "id": 1203911537,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-18T08:57:11Z",
+                "open_issues": 1,
                 "owner": "MetamusicX",
                 "repo": "zissa-wiki",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "academic-research",
+                  "claude-code",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm-research-wiki",
+                  "llm-wiki",
+                  "markdown",
+                  "personal-knowledge-management",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2415,12 +4238,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reusable template for building personal LLM-maintained knowledge bases. Implements Karpathy's LLM Wiki pattern.",
+                "homepage": null,
                 "id": 1201616839,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-25T18:13:38Z",
+                "open_issues": 1,
                 "owner": "bashiraziz",
                 "repo": "llm-wiki-template",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "ai-tools",
+                  "markdown",
+                  "obsidian",
+                  "obsidian-md",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "productivity",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2431,12 +4268,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A schema standard for LLM-compiled personal knowledge bases. AGENTS.md spec, templates, worked example, spaced repetition learning layer.",
+                "homepage": "https://thegeolab.net",
                 "id": 1202248431,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-06T20:24:35Z",
+                "open_issues": 0,
                 "owner": "arturseo-geo",
                 "repo": "llm-knowledge-base",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "knowledge-base",
+                  "llm",
+                  "markdown",
+                  "obsidian",
+                  "pkm",
+                  "rag",
+                  "schema",
+                  "spaced-repetition"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2447,12 +4300,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A deliberately lite personal brain: Obsidian to browse, Claude Code or Codex for everything else. No vector DB, no embeddings, no MCP servers, no Obsidian plugins — markdown, one stdlib Python script and a link graph.",
+                "homepage": "https://github.com/sturlese/hippocampus",
                 "id": 1297000919,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T13:33:35Z",
+                "open_issues": 0,
                 "owner": "sturlese",
                 "repo": "hippocampus",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "ai-notes",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "knowledge-base",
+                  "llm",
+                  "markdown",
+                  "note-taking",
+                  "obsidian",
+                  "obsidian-vault",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "second-brain",
+                  "zero-dependencies"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2463,12 +4336,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first LLM-maintained knowledge wiki purpose-built for Product Managers — Karpathy's LLM Wiki pattern turned into a PM schema, rituals, and a complete worked pilot. Clone it, point your agent at it, and your product knowledge starts compounding.",
+                "homepage": "https://theglocalpm.com/blog-pm-llm-wiki.html",
                 "id": 1288064720,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-03T08:40:37Z",
+                "open_issues": 0,
                 "owner": "AliMahmoud15486",
                 "repo": "pm-llm-wiki",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "ai-agents",
+                  "claude-code",
+                  "karpathy",
+                  "knowledge-base",
+                  "llm",
+                  "llm-wiki",
+                  "prd",
+                  "product-management"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2479,12 +4366,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM-Wiki: A Copilot-native personal knowledge graph. Inspired by Karpathy’s compounding knowledge pattern. Ingest, query, and interlink your second brain with AI. ",
+                "homepage": "http://srisatyalokesh.is-a.dev/copilot-llm-wiki/",
                 "id": 1212808503,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-04-16T19:09:51Z",
+                "open_issues": 1,
                 "owner": "SriSatyaLokesh",
                 "repo": "copilot-llm-wiki",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "copilot",
+                  "copilot-cli",
+                  "copilot-plugin",
+                  "github-copilot",
+                  "karpathy-llm-wiki",
+                  "knowledge-graph",
+                  "llm-memory",
+                  "llm-wiki",
+                  "obsidian-vault",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2495,12 +4398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No-code LLM Wiki implementation (Karpathy pattern): dual support for GitHub Copilot (.github/) and Claude Code (.claude/)",
+                "homepage": null,
                 "id": 1247516906,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-23T14:35:35Z",
+                "open_issues": 0,
                 "owner": "rosidotidev",
                 "repo": "llm-wiki-nocode",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2511,12 +4419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your books and PDFs into a knowledge base an AI keeps current, cite it to validate ideas and make decisions. Implements Andrej Karpathy's LLM Wiki pattern.",
+                "homepage": null,
                 "id": 1305138575,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-18T18:45:45Z",
+                "open_issues": 0,
                 "owner": "andresbuonaiuto",
                 "repo": "cerebro",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             },
@@ -2527,12 +4440,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-checking Obsidian vault for AI coding agents: persistent memory that proves it works — health score, dead-link scan, git guard against mass deletion. No Node, no plugins.",
+                "homepage": "https://secondbrainstarter.github.io/verified-memory-vault/",
                 "id": 1344864606,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T05:42:23Z",
+                "open_issues": 0,
                 "owner": "secondbrainstarter",
                 "repo": "verified-memory-vault",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "agent-memory",
+                  "ai-memory",
+                  "claude-code",
+                  "developer-tools",
+                  "markdown",
+                  "memory-management",
+                  "obsidian",
+                  "obsidian-vault",
+                  "pkm",
+                  "python",
+                  "second-brain",
+                  "starter-template"
+                ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
             }
@@ -2554,12 +4485,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
+            "homepage": null,
             "id": 1204361785,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T11:23:46Z",
+            "open_issues": 20,
             "owner": "Pratiyush",
             "repo": "llm-wiki",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "ai",
+              "claude-code",
+              "cli",
+              "codex-cli",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "karpathy",
+              "knowledge-base",
+              "llm",
+              "llm-wiki",
+              "markdown",
+              "mcp",
+              "obsidian",
+              "open-source",
+              "python",
+              "session-history",
+              "static-site",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-29T00:20:04.553Z"
         }
@@ -2576,12 +4533,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Why the LLM Wiki pattern breaks past 1,000 files, and the five invariants that fix it. A quote is a pointer, not a copy. Paper + full decision record. Free to read noncommercially with attribution; commercial use licensed.",
+            "homepage": "https://doi.org/10.5281/zenodo.21862190",
             "id": 1328377094,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T10:04:53Z",
+            "open_issues": 0,
             "owner": "AbleVarghese",
             "repo": "Provenance-First-Wiki",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "knowledge-base",
+              "knowledge-management",
+              "llm",
+              "llm-agents",
+              "personal-knowledge-management",
+              "provenance",
+              "rag",
+              "research-paper",
+              "retrieval",
+              "second-brain"
+            ]
           },
           "first_seen": "2026-08-29T00:20:04.553Z"
         }
@@ -2590,15 +4563,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:20:04.553Z",
+    "last_updated": "2026-08-29T05:02:43.038Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of foundational blueprints, functional frameworks, and technical guides for building compounding, AI-compiled knowledge bases.",
+      "homepage": null,
       "id": 1243754968,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-28T18:41:22Z",
+      "open_issues": 0,
       "owner": "gavischneider",
       "repo": "awesome-llm-wiki",
-      "stars": 97
+      "stars": 97,
+      "topics": [
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "knowledge-base",
+        "llm-wiki",
+        "pkm"
+      ]
     },
     "original_repository_sha": "e5888233bceeaadb9838ba8e741269c9f5f8bd92",
     "enhanced_repository": "enhansome/enhansome-llm-wiki",

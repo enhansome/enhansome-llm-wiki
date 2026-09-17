@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "LeoBR84p",
                 "repo": "wiki_llm",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -85,11 +85,11 @@
                 "id": 1200597263,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T16:31:12Z",
-                "open_issues": 1358,
+                "last_commit": "2026-09-16T19:41:40Z",
+                "open_issues": 1386,
                 "owner": "Graphify-Labs",
                 "repo": "graphify",
-                "stars": 118354,
+                "stars": 118983,
                 "topics": [
                   "ai-agents",
                   "antigravity",
@@ -130,7 +130,7 @@
                 "open_issues": 73,
                 "owner": "EverMind-AI",
                 "repo": "EverOS",
-                "stars": 13000,
+                "stars": 13029,
                 "topics": [
                   "agent-memory",
                   "agentic-ai",
@@ -169,7 +169,7 @@
                 "open_issues": 80,
                 "owner": "VectifyAI",
                 "repo": "OpenKB",
-                "stars": 4522,
+                "stars": 4524,
                 "topics": [
                   "agents",
                   "ai",
@@ -193,11 +193,11 @@
                 "id": 1202549948,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T04:41:41Z",
+                "last_commit": "2026-09-17T14:48:46Z",
                 "open_issues": 5,
                 "owner": "Ar9av",
                 "repo": "obsidian-wiki",
-                "stars": 3415,
+                "stars": 3422,
                 "topics": [
                   "agent-skills",
                   "brain",
@@ -224,11 +224,11 @@
                 "id": 1211537500,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T07:19:28Z",
+                "last_commit": "2026-09-16T19:37:54Z",
                 "open_issues": 5,
                 "owner": "codejunkie99",
                 "repo": "agentic-stack",
-                "stars": 2269,
+                "stars": 2272,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -245,11 +245,11 @@
                 "id": 1207529559,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T19:00:50Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-17T19:27:47Z",
+                "open_issues": 4,
                 "owner": "axoviq-ai",
                 "repo": "synthadoc",
-                "stars": 1200,
+                "stars": 1224,
                 "topics": [
                   "agent-skills",
                   "agentic-ai",
@@ -282,11 +282,11 @@
                 "id": 1119736729,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T17:14:23Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-17T16:02:51Z",
+                "open_issues": 11,
                 "owner": "desplega-ai",
                 "repo": "agent-swarm",
-                "stars": 782,
+                "stars": 802,
                 "topics": [
                   "agent-harness",
                   "agent-memory",
@@ -326,7 +326,7 @@
                 "open_issues": 5,
                 "owner": "ashutoshsinghpr7",
                 "repo": "wikiskill",
-                "stars": 214,
+                "stars": 222,
                 "topics": [
                   "agent-skills",
                   "agents",
@@ -349,12 +349,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Knowledge graph extractor: Markdown (or any format) to knowledge graph with RDFS/OWL ontology",
+                "description": "MyKG Knowledge Graph Engine: Turn raw files into knowledge graphs with induced ontology",
                 "homepage": null,
                 "id": 1251771970,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T10:50:34Z",
+                "last_commit": "2026-09-16T22:57:39Z",
                 "open_issues": 1,
                 "owner": "SenolIsci",
                 "repo": "mykg",
@@ -396,8 +396,8 @@
                 "id": 1224692542,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T17:55:19Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-16T21:38:44Z",
+                "open_issues": 33,
                 "owner": "equationalapplications",
                 "repo": "expo-llm-wiki",
                 "stars": 26,
@@ -531,11 +531,11 @@
                 "id": 1024118326,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T15:12:14Z",
-                "open_issues": 659,
+                "last_commit": "2026-09-17T16:55:44Z",
+                "open_issues": 665,
                 "owner": "Tencent",
                 "repo": "WeKnora",
-                "stars": 25127,
+                "stars": 26098,
                 "topics": [
                   "agent",
                   "agentic",
@@ -574,10 +574,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T06:42:02Z",
-                "open_issues": 274,
+                "open_issues": 276,
                 "owner": "nashsu",
                 "repo": "llm_wiki",
-                "stars": 19648,
+                "stars": 19680,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -598,7 +598,7 @@
                 "open_issues": 269,
                 "owner": "AsyncFuncAI",
                 "repo": "deepwiki-open",
-                "stars": 17990,
+                "stars": 17996,
                 "topics": [
                   "ai",
                   "codex",
@@ -627,11 +627,11 @@
                 "id": 1258203278,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T18:04:07Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-17T18:48:16Z",
+                "open_issues": 42,
                 "owner": "inkeep",
                 "repo": "open-knowledge",
-                "stars": 4230,
+                "stars": 4241,
                 "topics": [
                   "2nd-brain",
                   "agent-skills",
@@ -669,8 +669,8 @@
                 "id": 1174747993,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T17:55:39Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-17T09:55:25Z",
+                "open_issues": 31,
                 "owner": "siddsachar",
                 "repo": "row-bot",
                 "stars": 1494,
@@ -750,11 +750,11 @@
                 "id": 1269112987,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T16:47:28Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-17T19:25:17Z",
+                "open_issues": 8,
                 "owner": "Drakonis96",
                 "repo": "nodus",
-                "stars": 243,
+                "stars": 248,
                 "topics": [
                   "academic-research",
                   "academic-tools",
@@ -825,7 +825,7 @@
             {
               "node_type": "item",
               "title": "Ars Umbris",
-              "description": "(GitHub) - An open-source, agent-native IDE and malleable workbench for typed knowledge. Built on a local Rust graph engine and an extensible Electron shell, it compiles plain Markdown and YAML into a validated knowledge graph with diagnostics, custom projections, and native MCP adapters for Claude Code and Codex.",
+              "description": "(GitHub) (Companion X Article) - An open-source, agent-native IDE and malleable workbench for typed knowledge. Built on a local Rust graph engine and an extensible Electron shell, it compiles plain Markdown and YAML into a validated knowledge graph with diagnostics, custom projections, and native MCP adapters for Claude Code and Codex.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -838,7 +838,7 @@
                 "open_issues": 0,
                 "owner": "arsumbris",
                 "repo": "arsumbris",
-                "stars": 103,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-09-16T19:18:25.875Z"
@@ -855,11 +855,11 @@
                 "id": 1204108861,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T15:57:37Z",
+                "last_commit": "2026-09-17T18:31:58Z",
                 "open_issues": 1,
                 "owner": "talirezun",
                 "repo": "the-curator",
-                "stars": 91,
+                "stars": 93,
                 "topics": [
                   "agent-memory",
                   "ai-agents",
@@ -1111,7 +1111,7 @@
                 "id": 1275045662,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T10:06:36Z",
+                "last_commit": "2026-09-17T19:25:39Z",
                 "open_issues": 0,
                 "owner": "madsrg",
                 "repo": "astucia-wiki",
@@ -1202,7 +1202,7 @@
                 "open_issues": 21,
                 "owner": "AgriciDaniel",
                 "repo": "claude-obsidian",
-                "stars": 15005,
+                "stars": 15035,
                 "topics": [
                   "agent-skills",
                   "ai-note-taking",
@@ -1240,11 +1240,11 @@
                 "id": 1221689260,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T15:56:31Z",
-                "open_issues": 41,
+                "last_commit": "2026-09-17T14:40:52Z",
+                "open_issues": 40,
                 "owner": "GD4AI",
                 "repo": "obsidian-llm-wiki",
-                "stars": 627,
+                "stars": 630,
                 "topics": [
                   "graph-algorithms",
                   "karpathy",
@@ -1278,7 +1278,7 @@
                 "open_issues": 13,
                 "owner": "pssah4",
                 "repo": "vault-operator",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "ai",
                   "automation",
@@ -1307,7 +1307,7 @@
                 "open_issues": 5,
                 "owner": "domleca",
                 "repo": "llm-wiki",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -1324,7 +1324,7 @@
                 "id": 1241185104,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T15:28:42Z",
+                "last_commit": "2026-09-17T08:10:36Z",
                 "open_issues": 82,
                 "owner": "MarcoPorcellato",
                 "repo": "matryca-plumber",
@@ -1498,7 +1498,7 @@
                 "open_issues": 1,
                 "owner": "itsyuimorii",
                 "repo": "obsidian-gemma4-litert-wiki",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "gemma",
                   "knowledge-base",
@@ -1531,11 +1531,11 @@
                 "id": 1202057891,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T19:00:01Z",
-                "open_issues": 200,
+                "last_commit": "2026-09-17T18:09:39Z",
+                "open_issues": 223,
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 29991,
+                "stars": 30047,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -1552,11 +1552,11 @@
                 "id": 1080442728,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T18:53:21Z",
-                "open_issues": 455,
+                "last_commit": "2026-09-17T13:04:36Z",
+                "open_issues": 446,
                 "owner": "oceanbase",
                 "repo": "seekdb",
-                "stars": 2936,
+                "stars": 2939,
                 "topics": [
                   "ai-agents",
                   "copy-on-write",
@@ -1592,7 +1592,7 @@
                 "open_issues": 6,
                 "owner": "atomicstrata",
                 "repo": "llm-wiki-compiler",
-                "stars": 2024,
+                "stars": 2030,
                 "topics": [
                   "cli",
                   "compiler",
@@ -1624,7 +1624,7 @@
                 "open_issues": 28,
                 "owner": "lucasastorian",
                 "repo": "llmwiki",
-                "stars": 1615,
+                "stars": 1624,
                 "topics": [
                   "agents",
                   "ai-agents",
@@ -1657,7 +1657,7 @@
                 "open_issues": 21,
                 "owner": "nvk",
                 "repo": "llm-wiki",
-                "stars": 1296,
+                "stars": 1297,
                 "topics": [
                   "agentic-ai",
                   "agentic-skills",
@@ -1767,11 +1767,11 @@
                 "id": 1281029615,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T08:16:28Z",
+                "last_commit": "2026-09-17T07:21:52Z",
                 "open_issues": 0,
                 "owner": "alfadur7",
                 "repo": "llm-wiki-newsroom",
-                "stars": 161,
+                "stars": 163,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -1851,7 +1851,7 @@
                 "open_issues": 1,
                 "owner": "dimknaf",
                 "repo": "braindb",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "agent",
                   "knowledge-graph",
@@ -2138,7 +2138,7 @@
                 "open_issues": 2,
                 "owner": "jeromeetienne",
                 "repo": "mnemo_wiki",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -2190,6 +2190,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
+            },
+            {
+              "node_type": "item",
+              "title": "secure-llm-wiki (NicoBleh)",
+              "description": "A Python CLI and defense-in-depth knowledge compiler implementing Karpathy's LLM Wiki pattern to prevent indirect prompt injection and source poisoning. Features a 7-stage pipeline with input sanitization, nonce-delimited extraction, URI trust tiering, dual-model adversarial reviews, and quarantined write-gates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A persistent LLM-maintained wiki hardened against indirect prompt injection",
+                "homepage": null,
+                "id": 1255083276,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-31T14:10:54Z",
+                "open_issues": 0,
+                "owner": "NicoBleh",
+                "repo": "secure-llm-wiki",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-09-17T19:28:47.772Z"
             },
             {
               "node_type": "item",
@@ -2355,11 +2376,11 @@
                 "id": 1277477208,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T18:15:31Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-17T18:41:47Z",
+                "open_issues": 143,
                 "owner": "langchain-ai",
                 "repo": "openwiki",
-                "stars": 16564,
+                "stars": 16601,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -2380,7 +2401,7 @@
                 "open_issues": 23,
                 "owner": "campfirein",
                 "repo": "byterover-cli",
-                "stars": 4963,
+                "stars": 4964,
                 "topics": [
                   "agent",
                   "ai",
@@ -2411,32 +2432,11 @@
                 "id": 1177225364,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T18:48:11Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-17T17:08:07Z",
+                "open_issues": 27,
                 "owner": "vercel-labs",
                 "repo": "lat.md",
-                "stars": 1940,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:20:04.553Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AutoSci",
-              "description": "An advanced, memory-centric autonomous scientific research platform powered by Claude Code. Implements a dual-layer markdown vault architecture () to separate long-term scientific knowledge from active project frames, featuring multi-model critique validation loops, rigid Pydantic-style front-matter schema definitions, and a continuous self-evolution pipeline.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
-                "homepage": null,
-                "id": 1206036567,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-15T05:46:15Z",
-                "open_issues": 4,
-                "owner": "skyllwt",
-                "repo": "AutoSci",
-                "stars": 1675,
+                "stars": 1964,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -2514,11 +2514,11 @@
                 "id": 1215417088,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T04:03:41Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-17T17:50:13Z",
+                "open_issues": 6,
                 "owner": "7xuanlu",
                 "repo": "wenlan",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "ai-memory",
                   "claude",
@@ -2551,7 +2551,7 @@
                 "open_issues": 0,
                 "owner": "JanYork",
                 "repo": "llm-wiki-cli",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "agent-memory-system",
                   "agent-skills",
@@ -2660,10 +2660,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-12T05:31:43Z",
-                "open_issues": 303,
+                "open_issues": 304,
                 "owner": "Egonex-AI",
                 "repo": "Understand-Anything",
-                "stars": 83061,
+                "stars": 83150,
                 "topics": [
                   "antigravity-skills",
                   "business-knowledge",
@@ -2800,7 +2800,7 @@
                 "id": 1204822776,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T10:06:12Z",
+                "last_commit": "2026-09-17T14:47:01Z",
                 "open_issues": 0,
                 "owner": "ca1773130n",
                 "repo": "Tesserae",
@@ -2828,11 +2828,11 @@
                 "id": 1285643256,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T05:09:50Z",
+                "last_commit": "2026-09-17T19:24:05Z",
                 "open_issues": 2,
                 "owner": "plasma-ai",
                 "repo": "wiki",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -2933,11 +2933,11 @@
                 "id": 1201517600,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T16:16:04Z",
+                "last_commit": "2026-09-16T21:56:52Z",
                 "open_issues": 1,
                 "owner": "crypdick",
                 "repo": "obsidian-knowledge",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -2962,10 +2962,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-16T18:43:52Z",
-                "open_issues": 511,
+                "open_issues": 516,
                 "owner": "colbymchenry",
                 "repo": "codegraph",
-                "stars": 71153,
+                "stars": 71315,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -2982,11 +2982,11 @@
                 "id": 1031059905,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T19:12:46Z",
-                "open_issues": 280,
+                "last_commit": "2026-09-17T15:35:51Z",
+                "open_issues": 288,
                 "owner": "abhigyanpatwari",
                 "repo": "GitNexus",
-                "stars": 47387,
+                "stars": 47405,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -3003,11 +3003,11 @@
                 "id": 1166102148,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-16T02:32:40Z",
-                "open_issues": 592,
+                "last_commit": "2026-09-16T20:11:21Z",
+                "open_issues": 595,
                 "owner": "DeusData",
                 "repo": "codebase-memory-mcp",
-                "stars": 43536,
+                "stars": 43665,
                 "topics": [
                   "aider",
                   "ast",
@@ -3045,11 +3045,11 @@
                 "id": 1167788341,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T19:13:57Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-17T01:47:04Z",
+                "open_issues": 133,
                 "owner": "tirth8205",
                 "repo": "code-review-graph",
-                "stars": 31504,
+                "stars": 31548,
                 "topics": [
                   "ai-coding",
                   "claude",
@@ -3080,10 +3080,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-09T20:51:56Z",
-                "open_issues": 143,
+                "open_issues": 147,
                 "owner": "tobi",
                 "repo": "qmd",
-                "stars": 29788,
+                "stars": 29823,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -3100,11 +3100,11 @@
                 "id": 1246148135,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-16T17:52:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-17T18:40:38Z",
+                "open_issues": 4,
                 "owner": "akitaonrails",
                 "repo": "ai-memory",
-                "stars": 7002,
+                "stars": 7066,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -3121,7 +3121,7 @@
                 "id": 1060036659,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T11:30:51Z",
+                "last_commit": "2026-09-16T20:12:10Z",
                 "open_issues": 3,
                 "owner": "agentic-box",
                 "repo": "memora",
@@ -3202,10 +3202,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-15T23:07:29Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "zosmaai",
                 "repo": "pi-llm-wiki",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "ai-memory",
                   "interoperability",
@@ -3287,7 +3287,7 @@
                 "open_issues": 10,
                 "owner": "kytmanov",
                 "repo": "synto",
-                "stars": 253,
+                "stars": 255,
                 "topics": [
                   "git-based-wiki",
                   "karpathy",
@@ -3325,11 +3325,11 @@
                 "id": 1206602692,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T06:53:56Z",
+                "last_commit": "2026-09-17T01:12:38Z",
                 "open_issues": 0,
                 "owner": "gowtham0992",
                 "repo": "link",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "knowledge-base",
                   "llm",
@@ -3358,7 +3358,7 @@
                 "open_issues": 0,
                 "owner": "ctxr-dev",
                 "repo": "llm-wiki-memory",
-                "stars": 132,
+                "stars": 131,
                 "topics": [
                   "agent-memory",
                   "andrej-karpathy",
@@ -3390,7 +3390,7 @@
                 "open_issues": 0,
                 "owner": "frankchu91",
                 "repo": "mindbase-llm-wiki",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "ai",
                   "karpathy",
@@ -3464,6 +3464,33 @@
             },
             {
               "node_type": "item",
+              "title": "Linkly AI",
+              "description": "(Website) - A lightweight local document search engine and MCP server that compiles filesystem data into an AI-ready context layer, featuring progressive outline indexing, fast multilingual fuzzy matching, and deep regex terminal grep filtering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Linkly AI CLI Tools",
+                "homepage": "https://linkly.ai",
+                "id": 1170849633,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-17T13:58:02Z",
+                "open_issues": 0,
+                "owner": "LinklyAI",
+                "repo": "linkly-ai-cli",
+                "stars": 35,
+                "topics": [
+                  "agent-skills",
+                  "agent-tools",
+                  "knowledge-base",
+                  "mcp",
+                  "search-engine"
+                ]
+              },
+              "first_seen": "2026-08-29T00:20:04.553Z"
+            },
+            {
+              "node_type": "item",
               "title": "llm-wiki (geronimo-iia)",
               "description": "(crates.io) - A headless, git-backed wiki engine written in Rust that exposes 23 MCP tools and streaming ACP support for agents and IDEs. Features JSON-Schema-validated frontmatter, Tantivy full-text indexing, typed knowledge graph generation (Mermaid/DOT), and zero internal LLM dependencies.",
               "children": [],
@@ -3490,33 +3517,6 @@
                   "search",
                   "tantivy",
                   "wiki"
-                ]
-              },
-              "first_seen": "2026-08-29T00:20:04.553Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Linkly AI",
-              "description": "(Website) - A lightweight local document search engine and MCP server that compiles filesystem data into an AI-ready context layer, featuring progressive outline indexing, fast multilingual fuzzy matching, and deep regex terminal grep filtering.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Linkly AI CLI Tools",
-                "homepage": "https://linkly.ai",
-                "id": 1170849633,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-16T07:56:49Z",
-                "open_issues": 0,
-                "owner": "LinklyAI",
-                "repo": "linkly-ai-cli",
-                "stars": 34,
-                "topics": [
-                  "agent-skills",
-                  "agent-tools",
-                  "knowledge-base",
-                  "mcp",
-                  "search-engine"
                 ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -3601,11 +3601,11 @@
                 "id": 1086419061,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:57:25Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-17T19:22:18Z",
+                "open_issues": 70,
                 "owner": "vectorize-io",
                 "repo": "hindsight",
-                "stars": 23796,
+                "stars": 23841,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -3628,10 +3628,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-16T03:44:02Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "basicmachines-co",
                 "repo": "basic-memory",
-                "stars": 3980,
+                "stars": 3986,
                 "topics": [
                   "ai",
                   "claude",
@@ -3665,10 +3665,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T02:42:54Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "rahilp",
                 "repo": "second-brain-cloudflare",
-                "stars": 766,
+                "stars": 772,
                 "topics": [
                   "ai-memory",
                   "claude",
@@ -3704,10 +3704,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-16T00:49:40Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "Fergana-Labs",
                 "repo": "stash",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "agent-collaboration",
                   "ai",
@@ -3842,11 +3842,11 @@
                 "id": 1203558071,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T13:20:30Z",
-                "open_issues": 778,
+                "last_commit": "2026-09-17T12:47:01Z",
+                "open_issues": 763,
                 "owner": "TencentCloud",
                 "repo": "TencentDB-Agent-Memory",
-                "stars": 26844,
+                "stars": 26881,
                 "topics": [
                   "agent",
                   "ai-agent",
@@ -3877,7 +3877,7 @@
                 "open_issues": 12,
                 "owner": "eugeniughelbur",
                 "repo": "obsidian-second-brain",
-                "stars": 4475,
+                "stars": 4480,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -3919,7 +3919,7 @@
                 "open_issues": 4,
                 "owner": "SamurAIGPT",
                 "repo": "llm-wiki-agent",
-                "stars": 3527,
+                "stars": 3530,
                 "topics": [
                   "ai-agent",
                   "ai-tools",
@@ -3961,7 +3961,7 @@
                 "open_issues": 5,
                 "owner": "Astro-Han",
                 "repo": "karpathy-llm-wiki",
-                "stars": 2262,
+                "stars": 2271,
                 "topics": [
                   "agent-skill",
                   "claude-code",
@@ -3996,7 +3996,7 @@
                 "open_issues": 9,
                 "owner": "ClaudioDrews",
                 "repo": "memory-os",
-                "stars": 1360,
+                "stars": 1365,
                 "topics": [
                   "ai-memory",
                   "context-injection",
@@ -4081,7 +4081,7 @@
                 "open_issues": 0,
                 "owner": "dair-ai",
                 "repo": "dair-academy-plugins",
-                "stars": 615,
+                "stars": 616,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -4102,7 +4102,7 @@
                 "open_issues": 2,
                 "owner": "kfchou",
                 "repo": "wiki-skills",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
@@ -4247,7 +4247,7 @@
                 "open_issues": 0,
                 "owner": "sametbrr",
                 "repo": "llm-wiki-manager",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -4310,7 +4310,7 @@
                 "id": 1271023243,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-06-16T09:14:20Z",
+                "last_commit": "2026-09-17T17:27:54Z",
                 "open_issues": 1,
                 "owner": "sniperunder123",
                 "repo": "okf-knowledge",
@@ -4415,7 +4415,7 @@
                 "id": 1339472592,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-12T20:09:49Z",
+                "last_commit": "2026-09-17T14:40:32Z",
                 "open_issues": 0,
                 "owner": "giodra96",
                 "repo": "project-wiki",
@@ -4780,7 +4780,7 @@
                 "open_issues": 0,
                 "owner": "AliMahmoud15486",
                 "repo": "pm-llm-wiki",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -4793,6 +4793,38 @@
                 ]
               },
               "first_seen": "2026-08-29T00:20:04.553Z"
+            },
+            {
+              "node_type": "item",
+              "title": "memwiki (hereisSwapnil)",
+              "description": "(npm) - A zero-dependency CLI scaffolding tool and persistent project memory protocol for AI agents (Claude Code, Cursor, Copilot). Initializes a structured .memory/ directory with raw storage, a hot context cache (hot.md), append-only changelogs (log.md), architecture decision records, and multi-agent root hooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A persistent memory protocol for AI coding agents that gives projects a shared, markdown based knowledge system to preserve context, decisions, patterns, and progress across sessions.",
+                "homepage": null,
+                "id": 1261131444,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-06-06T09:51:30Z",
+                "open_issues": 0,
+                "owner": "hereisSwapnil",
+                "repo": "memwiki",
+                "stars": 20,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "claude",
+                  "claude-code",
+                  "context-engineering",
+                  "github",
+                  "llm",
+                  "llm-wiki",
+                  "memory",
+                  "wiki"
+                ]
+              },
+              "first_seen": "2026-09-17T19:28:47.772Z"
             },
             {
               "node_type": "item",
@@ -4911,56 +4943,29 @@
       "title": "Tools and Plugins"
     },
     {
-      "description": "Production-deployed examples and open-source markdown templates demonstrating the LLM Wiki pattern in active human-agent workflows.",
+      "description": "Peer-reviewed scientific literature, algorithmic formalizations, and empirical benchmark evaluations of compilation-based knowledge loops.",
       "items": [
         {
           "node_type": "item",
-          "title": "LLM Wiki (Pratiyush)",
-          "description": "(GitHub) - A live demo of a local knowledge base compiled from agent sessions, showcasing heatmaps, comparisons, and tool charts.",
+          "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
+          "description": "(GitHub) - A research paper introducing a memory-centric agentic system for the complete scientific research lifecycle. Structures long-term knowledge and project artifacts into schema-governed Markdown vaults (SciMem), utilizing DAG-based multi-agent execution and continuous feedback loops (SciEvolve) to iteratively update and patch scientific knowledge over time.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
+            "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
             "homepage": null,
-            "id": 1204361785,
+            "id": 1206036567,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-18T11:23:46Z",
-            "open_issues": 24,
-            "owner": "Pratiyush",
-            "repo": "llm-wiki",
-            "stars": 390,
-            "topics": [
-              "ai",
-              "claude-code",
-              "cli",
-              "codex-cli",
-              "copilot",
-              "cursor",
-              "developer-tools",
-              "gemini-cli",
-              "karpathy",
-              "knowledge-base",
-              "llm",
-              "llm-wiki",
-              "markdown",
-              "mcp",
-              "obsidian",
-              "open-source",
-              "python",
-              "session-history",
-              "static-site",
-              "wiki"
-            ]
+            "last_commit": "2026-09-15T05:46:15Z",
+            "open_issues": 4,
+            "owner": "skyllwt",
+            "repo": "AutoSci",
+            "stars": 1677,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:20:04.553Z"
-        }
-      ],
-      "title": "Live Implementations and Reference Vaults"
-    },
-    {
-      "description": "Peer-reviewed scientific literature, algorithmic formalizations, and empirical benchmark evaluations of compilation-based knowledge loops.",
-      "items": [
+        },
         {
           "node_type": "item",
           "title": "The Provenance-First Wiki: Why the LLM Wiki Pattern Breaks Past a Thousand Files, and the Five Invariants That Fix It",
@@ -4998,7 +5003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:18:25.875Z",
+    "last_updated": "2026-09-17T19:28:47.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of foundational blueprints, functional frameworks, and technical guides for building compounding, AI-compiled knowledge bases.",
@@ -5006,11 +5011,11 @@
       "id": 1243754968,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-16T12:56:42Z",
+      "last_commit": "2026-09-17T17:03:34Z",
       "open_issues": 0,
       "owner": "gavischneider",
       "repo": "awesome-llm-wiki",
-      "stars": 175,
+      "stars": 181,
       "topics": [
         "ai-agents",
         "awesome",
@@ -5021,7 +5026,7 @@
         "pkm"
       ]
     },
-    "original_repository_sha": "ba884df048c7c687fe713d3f711dbb0453c93f9a",
+    "original_repository_sha": "591f4099e0725f39a47d950a9061fbab039d18a0",
     "enhanced_repository": "enhansome/enhansome-llm-wiki",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Wiki with stars"
